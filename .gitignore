@@ -1,0 +1,19 @@
+# Virtualno okolje in predpomnilniki
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Generirana mapa z grafi
+grafi/
+
+# Sistemske datoteke
+.DS_Store
+Thumbs.db
+
+# Datoteke, ki naj ostanejo le na tvojem računalniku (se ne naložijo na GitHub)
+analiza_za_ucenje.py
+analiza.py
+komentarji_za_uporabo_ai.txt
+zajem_podatkov_z_komentarji.py
+zajem_podatkov.py
