@@ -1,5 +1,5 @@
 import os
-#import time
+import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd #pandas tukaj importamo zato da lažje shranimo pridobljene podatke v datoteko csv. (D)
