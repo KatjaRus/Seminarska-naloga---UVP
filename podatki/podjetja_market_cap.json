@@ -1,0 +1,4002 @@
+[
+    {
+        "Ime": "NVIDIA",
+        "Koda": "NVDA",
+        "Market_Cap_USD": 5555000000000.0,
+        "Cena_USD": 230.08,
+        "Sprememba_Odstotek": 2.23,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Apple",
+        "Koda": "AAPL",
+        "Market_Cap_USD": 4968000000000.0,
+        "Cena_USD": 340.43,
+        "Sprememba_Odstotek": 0.19,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Alphabet (Google)",
+        "Koda": "GOOG",
+        "Market_Cap_USD": 4128999999999.9995,
+        "Cena_USD": 337.68,
+        "Sprememba_Odstotek": 1.0,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Microsoft",
+        "Koda": "MSFT",
+        "Market_Cap_USD": 3759000000000.0,
+        "Cena_USD": 506.34,
+        "Sprememba_Odstotek": 1.9,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Amazon",
+        "Koda": "AMZN",
+        "Market_Cap_USD": 2656000000000.0,
+        "Cena_USD": 246.33,
+        "Sprememba_Odstotek": 1.34,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "TSMC",
+        "Koda": "TSM",
+        "Market_Cap_USD": 2306000000000.0,
+        "Cena_USD": 444.65,
+        "Sprememba_Odstotek": 1.32,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "SpaceX",
+        "Koda": "SPCX",
+        "Market_Cap_USD": 1936000000000.0,
+        "Cena_USD": 146.91,
+        "Sprememba_Odstotek": 1.19,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Meta Platforms (Facebook)",
+        "Koda": "META",
+        "Market_Cap_USD": 1831000000000.0,
+        "Cena_USD": 718.98,
+        "Sprememba_Odstotek": 4.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Broadcom",
+        "Koda": "AVGO",
+        "Market_Cap_USD": 1664000000000.0,
+        "Cena_USD": 348.76,
+        "Sprememba_Odstotek": 1.15,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Saudi Aramco",
+        "Koda": "2222.SR",
+        "Market_Cap_USD": 1645000000000.0,
+        "Cena_USD": 6.8,
+        "Sprememba_Odstotek": 1.08,
+        "Drzava": "S. Arabia"
+    },
+    {
+        "Ime": "Tesla",
+        "Koda": "TSLA",
+        "Market_Cap_USD": 1420000000000.0,
+        "Cena_USD": 359.64,
+        "Sprememba_Odstotek": 3.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Samsung",
+        "Koda": "005930.KS",
+        "Market_Cap_USD": 1305000000000.0,
+        "Cena_USD": 198.75,
+        "Sprememba_Odstotek": 5.43,
+        "Drzava": "S. Korea"
+    },
+    {
+        "Ime": "Micron Technology",
+        "Koda": "MU",
+        "Market_Cap_USD": 1171000000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 4.19,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Berkshire Hathaway",
+        "Koda": "BRK-B",
+        "Market_Cap_USD": 1082000000000.0001,
+        "Cena_USD": 505.54,
+        "Sprememba_Odstotek": 0.01,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Eli Lilly",
+        "Koda": "LLY",
+        "Market_Cap_USD": 1060000000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.46,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "AMD",
+        "Koda": "AMD",
+        "Market_Cap_USD": 983430000000.0,
+        "Cena_USD": 602.42,
+        "Sprememba_Odstotek": 4.47,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "SK Hynix",
+        "Koda": "000660.KS",
+        "Market_Cap_USD": 923820000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 5.05,
+        "Drzava": "S. Korea"
+    },
+    {
+        "Ime": "JPMorgan Chase",
+        "Koda": "JPM",
+        "Market_Cap_USD": 903790000000.0,
+        "Cena_USD": 340.0,
+        "Sprememba_Odstotek": 0.89,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Walmart",
+        "Koda": "WMT",
+        "Market_Cap_USD": 868300000000.0,
+        "Cena_USD": 109.11,
+        "Sprememba_Odstotek": 1.05,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Visa",
+        "Koda": "V",
+        "Market_Cap_USD": 691420000000.0,
+        "Cena_USD": 368.3,
+        "Sprememba_Odstotek": 0.25,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "ASML",
+        "Koda": "ASML",
+        "Market_Cap_USD": 669610000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.03,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Exxon Mobil",
+        "Koda": "XOM",
+        "Market_Cap_USD": 668990000000.0,
+        "Cena_USD": 162.7,
+        "Sprememba_Odstotek": 1.31,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Johnson & Johnson",
+        "Koda": "JNJ",
+        "Market_Cap_USD": 656160000000.0,
+        "Cena_USD": 272.28,
+        "Sprememba_Odstotek": 0.39,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Intel",
+        "Koda": "INTC",
+        "Market_Cap_USD": 613450000000.0,
+        "Cena_USD": 116.05,
+        "Sprememba_Odstotek": 5.65,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CXMT",
+        "Koda": "688825.SS",
+        "Market_Cap_USD": 568540000000.0,
+        "Cena_USD": 8.03,
+        "Sprememba_Odstotek": 4.27,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Tencent",
+        "Koda": "TCEHY",
+        "Market_Cap_USD": 507470000000.0,
+        "Cena_USD": 56.18,
+        "Sprememba_Odstotek": 0.95,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Mastercard",
+        "Koda": "MA",
+        "Market_Cap_USD": 497170000000.0,
+        "Cena_USD": 567.54,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "AbbVie",
+        "Koda": "ABBV",
+        "Market_Cap_USD": 470310000000.0,
+        "Cena_USD": 266.15,
+        "Sprememba_Odstotek": 0.68,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Palantir",
+        "Koda": "PLTR",
+        "Market_Cap_USD": 449660000000.0,
+        "Cena_USD": 187.12,
+        "Sprememba_Odstotek": 1.34,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "China Construction Bank",
+        "Koda": "601939.SS",
+        "Market_Cap_USD": 429420000000.0,
+        "Cena_USD": 1.64,
+        "Sprememba_Odstotek": 0.18,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Cisco",
+        "Koda": "CSCO",
+        "Market_Cap_USD": 419090000000.0,
+        "Cena_USD": 106.3,
+        "Sprememba_Odstotek": 0.37,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Costco",
+        "Koda": "COST",
+        "Market_Cap_USD": 411890000000.0,
+        "Cena_USD": 929.23,
+        "Sprememba_Odstotek": 0.7,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Chevron",
+        "Koda": "CVX",
+        "Market_Cap_USD": 406890000000.0,
+        "Cena_USD": 207.43,
+        "Sprememba_Odstotek": 1.46,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Oracle",
+        "Koda": "ORCL",
+        "Market_Cap_USD": 400930000000.0,
+        "Cena_USD": 132.6,
+        "Sprememba_Odstotek": 3.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bank of America",
+        "Koda": "BAC",
+        "Market_Cap_USD": 392220000000.0,
+        "Cena_USD": 56.09,
+        "Sprememba_Odstotek": 1.07,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Lam Research",
+        "Koda": "LRCX",
+        "Market_Cap_USD": 385180000000.0,
+        "Cena_USD": 307.8,
+        "Sprememba_Odstotek": 2.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Applied Materials",
+        "Koda": "AMAT",
+        "Market_Cap_USD": 376450000000.0,
+        "Cena_USD": 474.37,
+        "Sprememba_Odstotek": 2.19,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Caterpillar",
+        "Koda": "CAT",
+        "Market_Cap_USD": 376420000000.0,
+        "Cena_USD": 818.89,
+        "Sprememba_Odstotek": 0.33,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Coca-Cola",
+        "Koda": "KO",
+        "Market_Cap_USD": 376300000000.0,
+        "Cena_USD": 87.46,
+        "Sprememba_Odstotek": 0.4,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Merck",
+        "Koda": "MRK",
+        "Market_Cap_USD": 365580000000.0,
+        "Cena_USD": 148.18,
+        "Sprememba_Odstotek": 0.4,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Agricultural Bank of China",
+        "Koda": "601288.SS",
+        "Market_Cap_USD": 358410000000.0,
+        "Cena_USD": 1.02,
+        "Sprememba_Odstotek": 0.15,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Roche",
+        "Koda": "RO.SW",
+        "Market_Cap_USD": 353290000000.0,
+        "Cena_USD": 443.41,
+        "Sprememba_Odstotek": 1.71,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "ICBC",
+        "Koda": "1398.HK",
+        "Market_Cap_USD": 350080000000.0,
+        "Cena_USD": 0.98,
+        "Sprememba_Odstotek": 2.53,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "HSBC",
+        "Koda": "HSBC",
+        "Market_Cap_USD": 346100000000.0,
+        "Cena_USD": 101.16,
+        "Sprememba_Odstotek": 0.21,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Procter & Gamble",
+        "Koda": "PG",
+        "Market_Cap_USD": 344610000000.0,
+        "Cena_USD": 148.37,
+        "Sprememba_Odstotek": 1.46,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Dell",
+        "Koda": "DELL",
+        "Market_Cap_USD": 343100000000.0,
+        "Cena_USD": 539.63,
+        "Sprememba_Odstotek": 4.13,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "UnitedHealth",
+        "Koda": "UNH",
+        "Market_Cap_USD": 338230000000.0,
+        "Cena_USD": 376.82,
+        "Sprememba_Odstotek": 0.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "General Electric",
+        "Koda": "GE",
+        "Market_Cap_USD": 332530000000.0,
+        "Cena_USD": 320.5,
+        "Sprememba_Odstotek": 2.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bank of China",
+        "Koda": "601988.SS",
+        "Market_Cap_USD": 318790000000.0,
+        "Cena_USD": 0.99,
+        "Sprememba_Odstotek": 0.15,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Palo Alto Networks",
+        "Koda": "PANW",
+        "Market_Cap_USD": 309980000000.0,
+        "Cena_USD": 378.95,
+        "Sprememba_Odstotek": 1.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Morgan Stanley",
+        "Koda": "MS",
+        "Market_Cap_USD": 305080000000.0,
+        "Cena_USD": 194.25,
+        "Sprememba_Odstotek": 1.05,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Arm Holdings",
+        "Koda": "ARM",
+        "Market_Cap_USD": 298620000000.0,
+        "Cena_USD": 279.61,
+        "Sprememba_Odstotek": 9.9,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Philip Morris International",
+        "Koda": "PM",
+        "Market_Cap_USD": 298090000000.0,
+        "Cena_USD": 191.26,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Home Depot",
+        "Koda": "HD",
+        "Market_Cap_USD": 292640000000.0,
+        "Cena_USD": 293.32,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Netflix",
+        "Koda": "NFLX",
+        "Market_Cap_USD": 290990000000.0,
+        "Cena_USD": 69.88,
+        "Sprememba_Odstotek": 1.77,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Royal Bank Of Canada",
+        "Koda": "RY",
+        "Market_Cap_USD": 279280000000.0,
+        "Cena_USD": 201.73,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Novartis",
+        "Koda": "NVS",
+        "Market_Cap_USD": 278490000000.0,
+        "Cena_USD": 146.52,
+        "Sprememba_Odstotek": 0.73,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Shell",
+        "Koda": "SHEL",
+        "Market_Cap_USD": 277510000000.0,
+        "Cena_USD": 97.3,
+        "Sprememba_Odstotek": 1.58,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Alibaba",
+        "Koda": "BABA",
+        "Market_Cap_USD": 272540000000.00003,
+        "Cena_USD": 109.62,
+        "Sprememba_Odstotek": 0.11,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Goldman Sachs",
+        "Koda": "GS",
+        "Market_Cap_USD": 267670000000.00003,
+        "Cena_USD": 919.31,
+        "Sprememba_Odstotek": 1.73,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "MediaTek",
+        "Koda": "2454.TW",
+        "Market_Cap_USD": 265769999999.99997,
+        "Cena_USD": 166.4,
+        "Sprememba_Odstotek": 1.93,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "Mitsubishi UFJ Financial",
+        "Koda": "MUFG",
+        "Market_Cap_USD": 263940000000.0,
+        "Cena_USD": 23.45,
+        "Sprememba_Odstotek": 0.13,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "CrowdStrike",
+        "Koda": "CRWD",
+        "Market_Cap_USD": 258829999999.99997,
+        "Cena_USD": 252.78,
+        "Sprememba_Odstotek": 0.26,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Arista Networks",
+        "Koda": "ANET",
+        "Market_Cap_USD": 257829999999.99997,
+        "Cena_USD": 204.43,
+        "Sprememba_Odstotek": 1.03,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "AstraZeneca",
+        "Koda": "AZN",
+        "Market_Cap_USD": 257720000000.00003,
+        "Cena_USD": 166.18,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "RTX",
+        "Koda": "RTX",
+        "Market_Cap_USD": 254440000000.0,
+        "Cena_USD": 188.79,
+        "Sprememba_Odstotek": 0.32,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "GE Vernova",
+        "Koda": "GEV",
+        "Market_Cap_USD": 254340000000.0,
+        "Cena_USD": 954.98,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Texas Instruments",
+        "Koda": "TXN",
+        "Market_Cap_USD": 251240000000.0,
+        "Cena_USD": 275.11,
+        "Sprememba_Odstotek": 1.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Siemens",
+        "Koda": "SIE.DE",
+        "Market_Cap_USD": 249590000000.0,
+        "Cena_USD": 319.88,
+        "Sprememba_Odstotek": 1.11,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Thermo Fisher Scientific",
+        "Koda": "TMO",
+        "Market_Cap_USD": 248860000000.0,
+        "Cena_USD": 673.07,
+        "Sprememba_Odstotek": 0.29,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Wells Fargo",
+        "Koda": "WFC",
+        "Market_Cap_USD": 247870000000.0,
+        "Cena_USD": 81.97,
+        "Sprememba_Odstotek": 1.21,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Sandisk",
+        "Koda": "SNDK",
+        "Market_Cap_USD": 243440000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 6.48,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "SAP",
+        "Koda": "SAP",
+        "Market_Cap_USD": 240620000000.0,
+        "Cena_USD": 208.48,
+        "Sprememba_Odstotek": 1.04,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "KLA",
+        "Koda": "KLAC",
+        "Market_Cap_USD": 240490000000.0,
+        "Cena_USD": 184.28,
+        "Sprememba_Odstotek": 1.93,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Nestlé",
+        "Koda": "NESN.SW",
+        "Market_Cap_USD": 238680000000.0,
+        "Cena_USD": 92.79,
+        "Sprememba_Odstotek": 0.01,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "L'Oréal",
+        "Koda": "OR.PA",
+        "Market_Cap_USD": 234710000000.0,
+        "Cena_USD": 440.66,
+        "Sprememba_Odstotek": 1.52,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Kweichow Moutai",
+        "Koda": "600519.SS",
+        "Market_Cap_USD": 232130000000.0,
+        "Cena_USD": 185.69,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "SoftBank Group Corp.",
+        "Koda": "9984.T",
+        "Market_Cap_USD": 226410000000.0,
+        "Cena_USD": 39.73,
+        "Sprememba_Odstotek": 1.53,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "PetroChina",
+        "Koda": "0857.HK",
+        "Market_Cap_USD": 226320000000.0,
+        "Cena_USD": 1.24,
+        "Sprememba_Odstotek": 3.08,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Amgen",
+        "Koda": "AMGN",
+        "Market_Cap_USD": 224650000000.0,
+        "Cena_USD": 415.54,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Marvell Technology",
+        "Koda": "MRVL",
+        "Market_Cap_USD": 224040000000.0,
+        "Cena_USD": 249.3,
+        "Sprememba_Odstotek": 4.82,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Toyota",
+        "Koda": "TM",
+        "Market_Cap_USD": 223970000000.0,
+        "Cena_USD": 189.14,
+        "Sprememba_Odstotek": 0.63,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "LVMH",
+        "Koda": "MC.PA",
+        "Market_Cap_USD": 223870000000.0,
+        "Cena_USD": 454.13,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Citigroup",
+        "Koda": "C",
+        "Market_Cap_USD": 223490000000.0,
+        "Cena_USD": 133.24,
+        "Sprememba_Odstotek": 0.78,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "China Mobile",
+        "Koda": "0941.HK",
+        "Market_Cap_USD": 219070000000.0,
+        "Cena_USD": 10.1,
+        "Sprememba_Odstotek": 1.02,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Linde",
+        "Koda": "LIN",
+        "Market_Cap_USD": 217380000000.0,
+        "Cena_USD": 471.57,
+        "Sprememba_Odstotek": 0.36,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "International Holding Company",
+        "Koda": "IHC.AE",
+        "Market_Cap_USD": 217230000000.0,
+        "Cena_USD": 99.03,
+        "Sprememba_Odstotek": 1.73,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "BHP Group",
+        "Koda": "BHP",
+        "Market_Cap_USD": 213630000000.0,
+        "Cena_USD": 84.06,
+        "Sprememba_Odstotek": 1.07,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "IBM",
+        "Koda": "IBM",
+        "Market_Cap_USD": 207510000000.0,
+        "Cena_USD": 220.26,
+        "Sprememba_Odstotek": 2.33,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "American Express",
+        "Koda": "AXP",
+        "Market_Cap_USD": 206440000000.0,
+        "Cena_USD": 305.71,
+        "Sprememba_Odstotek": 1.03,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Santander",
+        "Koda": "SAN",
+        "Market_Cap_USD": 206060000000.0,
+        "Cena_USD": 14.22,
+        "Sprememba_Odstotek": 1.42,
+        "Drzava": "Spain"
+    },
+    {
+        "Ime": "Amphenol",
+        "Koda": "APH",
+        "Market_Cap_USD": 205130000000.0,
+        "Cena_USD": 83.18,
+        "Sprememba_Odstotek": 1.08,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CATL",
+        "Koda": "300750.SZ",
+        "Market_Cap_USD": 201620000000.0,
+        "Cena_USD": 43.57,
+        "Sprememba_Odstotek": 0.51,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "TotalEnergies",
+        "Koda": "TTE",
+        "Market_Cap_USD": 201230000000.0,
+        "Cena_USD": 91.13,
+        "Sprememba_Odstotek": 0.21,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "QUALCOMM",
+        "Koda": "QCOM",
+        "Market_Cap_USD": 200780000000.0,
+        "Cena_USD": 187.99,
+        "Sprememba_Odstotek": 6.92,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Seagate Technology",
+        "Koda": "STX",
+        "Market_Cap_USD": 199140000000.0,
+        "Cena_USD": 875.8,
+        "Sprememba_Odstotek": 4.48,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "Toronto Dominion Bank",
+        "Koda": "TD",
+        "Market_Cap_USD": 196800000000.0,
+        "Cena_USD": 120.11,
+        "Sprememba_Odstotek": 0.45,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Verizon",
+        "Koda": "VZ",
+        "Market_Cap_USD": 193840000000.0,
+        "Cena_USD": 46.66,
+        "Sprememba_Odstotek": 0.9,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Inditex",
+        "Koda": "ITX.MC",
+        "Market_Cap_USD": 190570000000.0,
+        "Cena_USD": 61.18,
+        "Sprememba_Odstotek": 1.05,
+        "Drzava": "Spain"
+    },
+    {
+        "Ime": "Salesforce",
+        "Koda": "CRM",
+        "Market_Cap_USD": 189140000000.0,
+        "Cena_USD": 229.82,
+        "Sprememba_Odstotek": 1.79,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Analog Devices",
+        "Koda": "ADI",
+        "Market_Cap_USD": 188840000000.0,
+        "Cena_USD": 389.71,
+        "Sprememba_Odstotek": 0.99,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Schneider Electric",
+        "Koda": "SU.PA",
+        "Market_Cap_USD": 188700000000.0,
+        "Cena_USD": 335.0,
+        "Sprememba_Odstotek": 1.27,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Gilead Sciences",
+        "Koda": "GILD",
+        "Market_Cap_USD": 187050000000.0,
+        "Cena_USD": 150.86,
+        "Sprememba_Odstotek": 0.05,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Deere & Company (John Deere)",
+        "Koda": "DE",
+        "Market_Cap_USD": 185330000000.0,
+        "Cena_USD": 687.38,
+        "Sprememba_Odstotek": 0.45,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Allianz SE",
+        "Koda": "ALV.DE",
+        "Market_Cap_USD": 183490000000.0,
+        "Cena_USD": 483.79,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Walt Disney",
+        "Koda": "DIS",
+        "Market_Cap_USD": 182920000000.0,
+        "Cena_USD": 105.94,
+        "Sprememba_Odstotek": 0.2,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "KIOXIA Holdings Corporation",
+        "Koda": "285A.T",
+        "Market_Cap_USD": 180720000000.0,
+        "Cena_USD": 339.4,
+        "Sprememba_Odstotek": 4.37,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Prosus",
+        "Koda": "PRX.AS",
+        "Market_Cap_USD": 180000000000.0,
+        "Cena_USD": 41.2,
+        "Sprememba_Odstotek": 0.42,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Shopify",
+        "Koda": "SHOP",
+        "Market_Cap_USD": 179370000000.0,
+        "Cena_USD": 138.23,
+        "Sprememba_Odstotek": 2.83,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "T-Mobile US",
+        "Koda": "TMUS",
+        "Market_Cap_USD": 178290000000.0,
+        "Cena_USD": 166.22,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Commonwealth Bank",
+        "Koda": "CBA.AX",
+        "Market_Cap_USD": 178010000000.0,
+        "Cena_USD": 106.48,
+        "Sprememba_Odstotek": 0.46,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "ABB",
+        "Koda": "ABBN.SW",
+        "Market_Cap_USD": 176150000000.0,
+        "Cena_USD": 97.31,
+        "Sprememba_Odstotek": 0.95,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Airbus",
+        "Koda": "AIR.PA",
+        "Market_Cap_USD": 175820000000.0,
+        "Cena_USD": 222.14,
+        "Sprememba_Odstotek": 1.57,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Pepsico",
+        "Koda": "PEP",
+        "Market_Cap_USD": 175220000000.0,
+        "Cena_USD": 128.28,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "BlackRock",
+        "Koda": "BLK",
+        "Market_Cap_USD": 174570000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 1.09,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Foxconn Industrial Internet",
+        "Koda": "601138.SS",
+        "Market_Cap_USD": 174480000000.0,
+        "Cena_USD": 8.79,
+        "Sprememba_Odstotek": 3.41,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Abbott Laboratories",
+        "Koda": "ABT",
+        "Market_Cap_USD": 174330000000.0,
+        "Cena_USD": 100.75,
+        "Sprememba_Odstotek": 0.53,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "DBS Group",
+        "Koda": "D05.SI",
+        "Market_Cap_USD": 173810000000.0,
+        "Cena_USD": 61.11,
+        "Sprememba_Odstotek": 0.14,
+        "Drzava": "Singapore"
+    },
+    {
+        "Ime": "AT&T",
+        "Koda": "T",
+        "Market_Cap_USD": 171750000000.0,
+        "Cena_USD": 25.06,
+        "Sprememba_Odstotek": 1.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Southern Copper",
+        "Koda": "SCCO",
+        "Market_Cap_USD": 171080000000.0,
+        "Cena_USD": 202.62,
+        "Sprememba_Odstotek": 0.64,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Charles Schwab",
+        "Koda": "SCHW",
+        "Market_Cap_USD": 170870000000.0,
+        "Cena_USD": 98.81,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Novo Nordisk",
+        "Koda": "NVO",
+        "Market_Cap_USD": 169600000000.0,
+        "Cena_USD": 38.4,
+        "Sprememba_Odstotek": 1.03,
+        "Drzava": "Denmark"
+    },
+    {
+        "Ime": "Eaton",
+        "Koda": "ETN",
+        "Market_Cap_USD": 169340000000.0,
+        "Cena_USD": 436.0,
+        "Sprememba_Odstotek": 0.9,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "Reliance Industries",
+        "Koda": "RELIANCE.NS",
+        "Market_Cap_USD": 168830000000.0,
+        "Cena_USD": 12.48,
+        "Sprememba_Odstotek": 2.32,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Welltower",
+        "Koda": "WELL",
+        "Market_Cap_USD": 168640000000.0,
+        "Cena_USD": 234.05,
+        "Sprememba_Odstotek": 1.16,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Sumitomo Mitsui Financial Group",
+        "Koda": "SMFG",
+        "Market_Cap_USD": 168530000000.0,
+        "Cena_USD": 26.62,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "McDonald",
+        "Koda": "MCD",
+        "Market_Cap_USD": 167140000000.0,
+        "Cena_USD": 236.2,
+        "Sprememba_Odstotek": 0.13,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Hermès",
+        "Koda": "RMS.PA",
+        "Market_Cap_USD": 165020000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 2.86,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "CM Bank",
+        "Koda": "3968.HK",
+        "Market_Cap_USD": 164290000000.0,
+        "Cena_USD": 6.51,
+        "Sprememba_Odstotek": 1.19,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Rolls-Royce Holdings",
+        "Koda": "RR.L",
+        "Market_Cap_USD": 163110000000.0,
+        "Cena_USD": 19.81,
+        "Sprememba_Odstotek": 0.81,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Union Pacific Corporation",
+        "Koda": "UNP",
+        "Market_Cap_USD": 162950000000.0,
+        "Cena_USD": 274.3,
+        "Sprememba_Odstotek": 0.19,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Tokyo Electron",
+        "Koda": "8035.T",
+        "Market_Cap_USD": 162800000000.0,
+        "Cena_USD": 358.36,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Pfizer",
+        "Koda": "PFE",
+        "Market_Cap_USD": 162580000000.0,
+        "Cena_USD": 28.52,
+        "Sprememba_Odstotek": 0.51,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Safran",
+        "Koda": "SAF.PA",
+        "Market_Cap_USD": 158690000000.0,
+        "Cena_USD": 382.97,
+        "Sprememba_Odstotek": 0.18,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Banco Bilbao Vizcaya Argentaria",
+        "Koda": "BBVA",
+        "Market_Cap_USD": 158430000000.0,
+        "Cena_USD": 28.71,
+        "Sprememba_Odstotek": 0.55,
+        "Drzava": "Spain"
+    },
+    {
+        "Ime": "Nextera Energy",
+        "Koda": "NEE",
+        "Market_Cap_USD": 158030000000.0,
+        "Cena_USD": 75.76,
+        "Sprememba_Odstotek": 0.42,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Danaher",
+        "Koda": "DHR",
+        "Market_Cap_USD": 157820000000.0,
+        "Cena_USD": 224.5,
+        "Sprememba_Odstotek": 0.0,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Hitachi",
+        "Koda": "6501.T",
+        "Market_Cap_USD": 156780000000.0,
+        "Cena_USD": 35.11,
+        "Sprememba_Odstotek": 0.33,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Western Digital",
+        "Koda": "WDC",
+        "Market_Cap_USD": 156630000000.0,
+        "Cena_USD": 434.43,
+        "Sprememba_Odstotek": 4.9,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "China Shenhua Energy",
+        "Koda": "601088.SS",
+        "Market_Cap_USD": 156620000000.0,
+        "Cena_USD": 7.22,
+        "Sprememba_Odstotek": 0.75,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Delta Electronics",
+        "Koda": "2308.TW",
+        "Market_Cap_USD": 156210000000.0,
+        "Cena_USD": 60.14,
+        "Sprememba_Odstotek": 0.53,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "China Life Insurance",
+        "Koda": "601628.SS",
+        "Market_Cap_USD": 155090000000.0,
+        "Cena_USD": 5.49,
+        "Sprememba_Odstotek": 1.76,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Iberdrola",
+        "Koda": "IBE.MC",
+        "Market_Cap_USD": 154970000000.0,
+        "Cena_USD": 23.22,
+        "Sprememba_Odstotek": 0.49,
+        "Drzava": "Spain"
+    },
+    {
+        "Ime": "Advantest",
+        "Koda": "6857.T",
+        "Market_Cap_USD": 154940000000.0,
+        "Cena_USD": 214.62,
+        "Sprememba_Odstotek": 0.79,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "ConocoPhillips",
+        "Koda": "COP",
+        "Market_Cap_USD": 153560000000.0,
+        "Cena_USD": 127.83,
+        "Sprememba_Odstotek": 0.42,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Rio Tinto",
+        "Koda": "RIO",
+        "Market_Cap_USD": 152870000000.0,
+        "Cena_USD": 94.0,
+        "Sprememba_Odstotek": 0.59,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Anheuser-Busch Inbev",
+        "Koda": "BUD",
+        "Market_Cap_USD": 152730000000.0,
+        "Cena_USD": 77.56,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "Belgium"
+    },
+    {
+        "Ime": "UBS",
+        "Koda": "UBS",
+        "Market_Cap_USD": 150020000000.0,
+        "Cena_USD": 49.0,
+        "Sprememba_Odstotek": 1.35,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Boeing",
+        "Koda": "BA",
+        "Market_Cap_USD": 149850000000.0,
+        "Cena_USD": 189.6,
+        "Sprememba_Odstotek": 4.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Interactive Brokers",
+        "Koda": "IBKR",
+        "Market_Cap_USD": 149520000000.0,
+        "Cena_USD": 87.76,
+        "Sprememba_Odstotek": 1.66,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Intuitive Surgical",
+        "Koda": "ISRG",
+        "Market_Cap_USD": 148270000000.0,
+        "Cena_USD": 413.86,
+        "Sprememba_Odstotek": 2.14,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Deutsche Telekom",
+        "Koda": "DTE.DE",
+        "Market_Cap_USD": 146080000000.0,
+        "Cena_USD": 30.54,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Recruit",
+        "Koda": "6098.T",
+        "Market_Cap_USD": 145320000000.0,
+        "Cena_USD": 104.64,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "UniCredit",
+        "Koda": "UCG.MI",
+        "Market_Cap_USD": 145030000000.0,
+        "Cena_USD": 96.18,
+        "Sprememba_Odstotek": 0.79,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "TJX Companies",
+        "Koda": "TJX",
+        "Market_Cap_USD": 143870000000.0,
+        "Cena_USD": 130.8,
+        "Sprememba_Odstotek": 0.57,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CNOOC",
+        "Koda": "0883.HK",
+        "Market_Cap_USD": 143480000000.0,
+        "Cena_USD": 3.02,
+        "Sprememba_Odstotek": 1.2,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Zhongji Innolight",
+        "Koda": "300308.SZ",
+        "Market_Cap_USD": 142260000000.0,
+        "Cena_USD": 121.62,
+        "Sprememba_Odstotek": 9.03,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Ping An Insurance",
+        "Koda": "601318.SS",
+        "Market_Cap_USD": 141640000000.0,
+        "Cena_USD": 7.82,
+        "Sprememba_Odstotek": 1.6,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Uber",
+        "Koda": "UBER",
+        "Market_Cap_USD": 140280000000.0,
+        "Cena_USD": 68.68,
+        "Sprememba_Odstotek": 1.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Siemens Energy",
+        "Koda": "ENR.F",
+        "Market_Cap_USD": 139020000000.0,
+        "Cena_USD": 163.4,
+        "Sprememba_Odstotek": 0.26,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Blackstone Group",
+        "Koda": "BX",
+        "Market_Cap_USD": 138350000000.0,
+        "Cena_USD": 115.75,
+        "Sprememba_Odstotek": 2.25,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Sony",
+        "Koda": "SONY",
+        "Market_Cap_USD": 136100000000.0,
+        "Cena_USD": 23.28,
+        "Sprememba_Odstotek": 1.13,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "ServiceNow",
+        "Koda": "NOW",
+        "Market_Cap_USD": 135340000000.0,
+        "Cena_USD": 130.91,
+        "Sprememba_Odstotek": 3.47,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Mizuho Financial Group",
+        "Koda": "MFG",
+        "Market_Cap_USD": 134639999999.99998,
+        "Cena_USD": 11.12,
+        "Sprememba_Odstotek": 0.5,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Unilever",
+        "Koda": "UL",
+        "Market_Cap_USD": 134520000000.00002,
+        "Cena_USD": 62.48,
+        "Sprememba_Odstotek": 0.1,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Intesa Sanpaolo",
+        "Koda": "ISP.MI",
+        "Market_Cap_USD": 134169999999.99998,
+        "Cena_USD": 7.73,
+        "Sprememba_Odstotek": 0.15,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "Vertex Pharmaceuticals",
+        "Koda": "VRTX",
+        "Market_Cap_USD": 133820000000.0,
+        "Cena_USD": 527.98,
+        "Sprememba_Odstotek": 0.34,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Petrobras",
+        "Koda": "PBR",
+        "Market_Cap_USD": 133750000000.0,
+        "Cena_USD": 20.76,
+        "Sprememba_Odstotek": 1.89,
+        "Drzava": "Brazil"
+    },
+    {
+        "Ime": "Fast Retailing",
+        "Koda": "9983.T",
+        "Market_Cap_USD": 132470000000.0,
+        "Cena_USD": 431.72,
+        "Sprememba_Odstotek": 1.12,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Corning",
+        "Koda": "GLW",
+        "Market_Cap_USD": 130240000000.00002,
+        "Cena_USD": 151.2,
+        "Sprememba_Odstotek": 3.53,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Prologis",
+        "Koda": "PLD",
+        "Market_Cap_USD": 130050000000.00002,
+        "Cena_USD": 133.79,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bristol-Myers Squibb",
+        "Koda": "BMY",
+        "Market_Cap_USD": 128770000000.00002,
+        "Cena_USD": 63.04,
+        "Sprememba_Odstotek": 0.29,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Chubb",
+        "Koda": "CB",
+        "Market_Cap_USD": 128300000000.00002,
+        "Cena_USD": 332.56,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Fortinet",
+        "Koda": "FTNT",
+        "Market_Cap_USD": 127270000000.0,
+        "Cena_USD": 173.47,
+        "Sprememba_Odstotek": 0.01,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Investor AB",
+        "Koda": "INVE-B.ST",
+        "Market_Cap_USD": 126120000000.0,
+        "Cena_USD": 41.17,
+        "Sprememba_Odstotek": 0.32,
+        "Drzava": "Sweden"
+    },
+    {
+        "Ime": "BNP Paribas",
+        "Koda": "BNP.PA",
+        "Market_Cap_USD": 123600000000.0,
+        "Cena_USD": 112.78,
+        "Sprememba_Odstotek": 0.09,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Parker-Hannifin",
+        "Koda": "PH",
+        "Market_Cap_USD": 123520000000.0,
+        "Cena_USD": 979.47,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Booking Holdings (Booking.com)",
+        "Koda": "BKNG",
+        "Market_Cap_USD": 123480000000.0,
+        "Cena_USD": 164.34,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Newmont",
+        "Koda": "NEM",
+        "Market_Cap_USD": 123430000000.0,
+        "Cena_USD": 117.14,
+        "Sprememba_Odstotek": 3.53,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cloudflare",
+        "Koda": "NET",
+        "Market_Cap_USD": 122810000000.0,
+        "Cena_USD": 344.92,
+        "Sprememba_Odstotek": 1.17,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Compagnie Financière Richemont",
+        "Koda": "CFR.SW",
+        "Market_Cap_USD": 122570000000.0,
+        "Cena_USD": 208.48,
+        "Sprememba_Odstotek": 1.17,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Air Liquide",
+        "Koda": "AI.PA",
+        "Market_Cap_USD": 122350000000.0,
+        "Cena_USD": 191.72,
+        "Sprememba_Odstotek": 0.69,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Capital One",
+        "Koda": "COF",
+        "Market_Cap_USD": 121570000000.0,
+        "Cena_USD": 198.17,
+        "Sprememba_Odstotek": 1.01,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Keyence",
+        "Koda": "6861.T",
+        "Market_Cap_USD": 121130000000.0,
+        "Cena_USD": 499.48,
+        "Sprememba_Odstotek": 1.38,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Lockheed Martin",
+        "Koda": "LMT",
+        "Market_Cap_USD": 120680000000.0,
+        "Cena_USD": 522.94,
+        "Sprememba_Odstotek": 0.65,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Progressive",
+        "Koda": "PGR",
+        "Market_Cap_USD": 120630000000.0,
+        "Cena_USD": 207.85,
+        "Sprememba_Odstotek": 1.14,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "British American Tobacco",
+        "Koda": "BTI",
+        "Market_Cap_USD": 120480000000.0,
+        "Cena_USD": 55.98,
+        "Sprememba_Odstotek": 0.63,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Bank of Montreal",
+        "Koda": "BMO",
+        "Market_Cap_USD": 119440000000.0,
+        "Cena_USD": 171.84,
+        "Sprememba_Odstotek": 0.26,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "S&P Global",
+        "Koda": "SPGI",
+        "Market_Cap_USD": 117850000000.0,
+        "Cena_USD": 399.77,
+        "Sprememba_Odstotek": 0.88,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Zijin Mining",
+        "Koda": "601899.SS",
+        "Market_Cap_USD": 116740000000.0,
+        "Cena_USD": 4.39,
+        "Sprememba_Odstotek": 1.97,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "BP",
+        "Koda": "BP",
+        "Market_Cap_USD": 115760000000.0,
+        "Cena_USD": 44.95,
+        "Sprememba_Odstotek": 1.81,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Altria Group",
+        "Koda": "MO",
+        "Market_Cap_USD": 115590000000.0,
+        "Cena_USD": 69.23,
+        "Sprememba_Odstotek": 0.6,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bharti Airtel",
+        "Koda": "BHARTIARTL.NS",
+        "Market_Cap_USD": 115140000000.0,
+        "Cena_USD": 18.46,
+        "Sprememba_Odstotek": 0.78,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "HDFC Bank",
+        "Koda": "HDB",
+        "Market_Cap_USD": 115120000000.0,
+        "Cena_USD": 22.4,
+        "Sprememba_Odstotek": 2.65,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Snowflake",
+        "Koda": "SNOW",
+        "Market_Cap_USD": 114780000000.0,
+        "Cena_USD": 325.36,
+        "Sprememba_Odstotek": 3.15,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CVS Health",
+        "Koda": "CVS",
+        "Market_Cap_USD": 114040000000.0,
+        "Cena_USD": 89.17,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Scotiabank",
+        "Koda": "BNS",
+        "Market_Cap_USD": 113830000000.0,
+        "Cena_USD": 93.4,
+        "Sprememba_Odstotek": 0.09,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "BYD",
+        "Koda": "002594.SZ",
+        "Market_Cap_USD": 113400000000.0,
+        "Cena_USD": 12.44,
+        "Sprememba_Odstotek": 1.17,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "OCBC Bank",
+        "Koda": "O39.SI",
+        "Market_Cap_USD": 113320000000.0,
+        "Cena_USD": 25.21,
+        "Sprememba_Odstotek": 0.66,
+        "Drzava": "Singapore"
+    },
+    {
+        "Ime": "Medtronic",
+        "Koda": "MDT",
+        "Market_Cap_USD": 112530000000.0,
+        "Cena_USD": 87.98,
+        "Sprememba_Odstotek": 0.74,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "ASE Group",
+        "Koda": "ASX",
+        "Market_Cap_USD": 112320000000.0,
+        "Cena_USD": 43.14,
+        "Sprememba_Odstotek": 2.64,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "Mitsubishi Corporation",
+        "Koda": "8058.T",
+        "Market_Cap_USD": 112280000000.0,
+        "Cena_USD": 30.66,
+        "Sprememba_Odstotek": 0.84,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Valero Energy",
+        "Koda": "VLO",
+        "Market_Cap_USD": 111640000000.0,
+        "Cena_USD": 387.76,
+        "Sprememba_Odstotek": 0.15,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "PDD Holdings (Pinduoduo)",
+        "Koda": "PDD",
+        "Market_Cap_USD": 111380000000.0,
+        "Cena_USD": 78.25,
+        "Sprememba_Odstotek": 0.88,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Marathon Petroleum",
+        "Koda": "MPC",
+        "Market_Cap_USD": 110530000000.0,
+        "Cena_USD": 393.61,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Foxconn (Hon Hai Precision Industry)",
+        "Koda": "2317.TW",
+        "Market_Cap_USD": 110510000000.0,
+        "Cena_USD": 7.89,
+        "Sprememba_Odstotek": 2.15,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "Starbucks",
+        "Koda": "SBUX",
+        "Market_Cap_USD": 108510000000.0,
+        "Cena_USD": 95.19,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "SK Square",
+        "Koda": "402340.KS",
+        "Market_Cap_USD": 106690000000.0,
+        "Cena_USD": 809.71,
+        "Sprememba_Odstotek": 7.56,
+        "Drzava": "S. Korea"
+    },
+    {
+        "Ime": "Accenture",
+        "Koda": "ACN",
+        "Market_Cap_USD": 106360000000.0,
+        "Cena_USD": 173.82,
+        "Sprememba_Odstotek": 1.3,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "Lowe's Companies",
+        "Koda": "LOW",
+        "Market_Cap_USD": 106020000000.0,
+        "Cena_USD": 188.98,
+        "Sprememba_Odstotek": 0.16,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Robinhood",
+        "Koda": "HOOD",
+        "Market_Cap_USD": 105820000000.0,
+        "Cena_USD": 117.7,
+        "Sprememba_Odstotek": 1.42,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Stryker Corporation",
+        "Koda": "SYK",
+        "Market_Cap_USD": 105540000000.0,
+        "Cena_USD": 275.15,
+        "Sprememba_Odstotek": 1.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "AXA",
+        "Koda": "CS.PA",
+        "Market_Cap_USD": 104960000000.0,
+        "Cena_USD": 50.2,
+        "Sprememba_Odstotek": 0.36,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Automatic Data Processing",
+        "Koda": "ADP",
+        "Market_Cap_USD": 104560000000.0,
+        "Cena_USD": 263.89,
+        "Sprememba_Odstotek": 0.08,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "AppLovin",
+        "Koda": "APP",
+        "Market_Cap_USD": 104430000000.0,
+        "Cena_USD": 310.87,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Enbridge",
+        "Koda": "ENB",
+        "Market_Cap_USD": 104280000000.0,
+        "Cena_USD": 46.79,
+        "Sprememba_Odstotek": 0.11,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "China Yangtze Power",
+        "Koda": "600900.SS",
+        "Market_Cap_USD": 104240000000.0,
+        "Cena_USD": 4.26,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Zurich Insurance Group",
+        "Koda": "ZURN.SW",
+        "Market_Cap_USD": 104230000000.0,
+        "Cena_USD": 697.81,
+        "Sprememba_Odstotek": 0.14,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "ING",
+        "Koda": "ING",
+        "Market_Cap_USD": 103610000000.0,
+        "Cena_USD": 36.38,
+        "Sprememba_Odstotek": 0.45,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Spotify",
+        "Koda": "SPOT",
+        "Market_Cap_USD": 103070000000.0,
+        "Cena_USD": 501.36,
+        "Sprememba_Odstotek": 1.7,
+        "Drzava": "Sweden"
+    },
+    {
+        "Ime": "Freeport-McMoRan",
+        "Koda": "FCX",
+        "Market_Cap_USD": 103000000000.0,
+        "Cena_USD": 71.73,
+        "Sprememba_Odstotek": 0.8,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Phillips 66",
+        "Koda": "PSX",
+        "Market_Cap_USD": 102590000000.0,
+        "Cena_USD": 255.88,
+        "Sprememba_Odstotek": 0.05,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CaixaBank",
+        "Koda": "CABK.MC",
+        "Market_Cap_USD": 102280000000.0,
+        "Cena_USD": 14.73,
+        "Sprememba_Odstotek": 2.04,
+        "Drzava": "Spain"
+    },
+    {
+        "Ime": "CIBC (Canadian Imperial Bank of Commerce)",
+        "Koda": "CM",
+        "Market_Cap_USD": 102060000000.0,
+        "Cena_USD": 112.41,
+        "Sprememba_Odstotek": 0.38,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Al Rajhi Bank",
+        "Koda": "1120.SR",
+        "Market_Cap_USD": 101880000000.0,
+        "Cena_USD": 16.98,
+        "Sprememba_Odstotek": 1.54,
+        "Drzava": "S. Arabia"
+    },
+    {
+        "Ime": "Equinor",
+        "Koda": "EQNR",
+        "Market_Cap_USD": 101450000000.0,
+        "Cena_USD": 42.8,
+        "Sprememba_Odstotek": 1.45,
+        "Drzava": "Norway"
+    },
+    {
+        "Ime": "Equinix",
+        "Koda": "EQIX",
+        "Market_Cap_USD": 101380000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 1.92,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "BNY Mellon (Bank of New York Mellon)",
+        "Koda": "BNY",
+        "Market_Cap_USD": 101200000000.0,
+        "Cena_USD": 149.16,
+        "Sprememba_Odstotek": 0.66,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "McKesson",
+        "Koda": "MCK",
+        "Market_Cap_USD": 100600000000.0,
+        "Cena_USD": 862.93,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bank of Communications",
+        "Koda": "601328.SS",
+        "Market_Cap_USD": 100080000000.0,
+        "Cena_USD": 1.13,
+        "Sprememba_Odstotek": 0.4,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Trane Technologies",
+        "Koda": "TT",
+        "Market_Cap_USD": 99980000000.0,
+        "Cena_USD": 454.44,
+        "Sprememba_Odstotek": 0.0,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "Enel",
+        "Koda": "ENEL.MI",
+        "Market_Cap_USD": 99530000000.0,
+        "Cena_USD": 10.03,
+        "Sprememba_Odstotek": 0.98,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "Canadian Natural Resources",
+        "Koda": "CNQ",
+        "Market_Cap_USD": 99190000000.0,
+        "Cena_USD": 48.12,
+        "Sprememba_Odstotek": 1.5,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "GSK plc",
+        "Koda": "GSK",
+        "Market_Cap_USD": 99080000000.0,
+        "Cena_USD": 49.48,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Itōchū Shōji",
+        "Koda": "8001.T",
+        "Market_Cap_USD": 99000000000.0,
+        "Cena_USD": 14.16,
+        "Sprememba_Odstotek": 0.68,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Sanofi",
+        "Koda": "SNY",
+        "Market_Cap_USD": 98200000000.0,
+        "Cena_USD": 40.98,
+        "Sprememba_Odstotek": 0.3,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Grupo México",
+        "Koda": "GMBXF",
+        "Market_Cap_USD": 98200000000.0,
+        "Cena_USD": 12.55,
+        "Sprememba_Odstotek": 0.4,
+        "Drzava": "Mexico"
+    },
+    {
+        "Ime": "ICICI Bank",
+        "Koda": "IBN",
+        "Market_Cap_USD": 98050000000.0,
+        "Cena_USD": 27.32,
+        "Sprememba_Odstotek": 2.15,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Quanta Services",
+        "Koda": "PWR",
+        "Market_Cap_USD": 97700000000.0,
+        "Cena_USD": 649.9,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Tokio Marine",
+        "Koda": "8766.T",
+        "Market_Cap_USD": 97610000000.0,
+        "Cena_USD": 51.38,
+        "Sprememba_Odstotek": 1.04,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Sinopec",
+        "Koda": "600028.SS",
+        "Market_Cap_USD": 97450000000.0,
+        "Cena_USD": 0.81,
+        "Sprememba_Odstotek": 1.69,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "AIA",
+        "Koda": "1299.HK",
+        "Market_Cap_USD": 97260000000.0,
+        "Cena_USD": 9.44,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "Hong Kong"
+    },
+    {
+        "Ime": "Vertiv Holdings",
+        "Koda": "VRT",
+        "Market_Cap_USD": 96260000000.0,
+        "Cena_USD": 250.04,
+        "Sprememba_Odstotek": 1.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Delta Electronics (Thailand)",
+        "Koda": "DELTA.BK",
+        "Market_Cap_USD": 96200000000.0,
+        "Cena_USD": 7.71,
+        "Sprememba_Odstotek": 1.52,
+        "Drzava": "Thailand"
+    },
+    {
+        "Ime": "Datadog",
+        "Koda": "DDOG",
+        "Market_Cap_USD": 95860000000.0,
+        "Cena_USD": 266.97,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cambricon Technologies",
+        "Koda": "688256.SS",
+        "Market_Cap_USD": 95720000000.0,
+        "Cena_USD": 152.22,
+        "Sprememba_Odstotek": 6.55,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "CME Group",
+        "Koda": "CME",
+        "Market_Cap_USD": 95550000000.0,
+        "Cena_USD": 265.75,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Postal Savings Bank of China",
+        "Koda": "601658.SS",
+        "Market_Cap_USD": 95340000000.0,
+        "Cena_USD": 0.79,
+        "Sprememba_Odstotek": 0.19,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "HCA Healthcare",
+        "Koda": "HCA",
+        "Market_Cap_USD": 94880000000.0,
+        "Cena_USD": 438.28,
+        "Sprememba_Odstotek": 0.61,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Southern Company",
+        "Koda": "SO",
+        "Market_Cap_USD": 94870000000.0,
+        "Cena_USD": 82.47,
+        "Sprememba_Odstotek": 0.49,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Airbnb",
+        "Koda": "ABNB",
+        "Market_Cap_USD": 94300000000.0,
+        "Cena_USD": 157.5,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Agnico Eagle Mines",
+        "Koda": "AEM",
+        "Market_Cap_USD": 94030000000.0,
+        "Cena_USD": 185.7,
+        "Sprememba_Odstotek": 4.51,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Midea",
+        "Koda": "000333.SZ",
+        "Market_Cap_USD": 93360000000.0,
+        "Cena_USD": 12.24,
+        "Sprememba_Odstotek": 0.79,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "State Bank of India",
+        "Koda": "SBIN.NS",
+        "Market_Cap_USD": 92520000000.0,
+        "Cena_USD": 10.02,
+        "Sprememba_Odstotek": 2.14,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Marriott International",
+        "Koda": "MAR",
+        "Market_Cap_USD": 92500000000.0,
+        "Cena_USD": 354.74,
+        "Sprememba_Odstotek": 0.77,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Murata Manufacturing (Murata Seisakusho)",
+        "Koda": "6981.T",
+        "Market_Cap_USD": 92310000000.0,
+        "Cena_USD": 50.93,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Constellation Energy",
+        "Koda": "CEG",
+        "Market_Cap_USD": 92090000000.0,
+        "Cena_USD": 259.93,
+        "Sprememba_Odstotek": 1.27,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "U.S. Bancorp",
+        "Koda": "USB",
+        "Market_Cap_USD": 91900000000.0,
+        "Cena_USD": 58.99,
+        "Sprememba_Odstotek": 0.57,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Adobe",
+        "Koda": "ADBE",
+        "Market_Cap_USD": 91540000000.0,
+        "Cena_USD": 230.29,
+        "Sprememba_Odstotek": 2.2,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Howmet Aerospace",
+        "Koda": "HWM",
+        "Market_Cap_USD": 91530000000.0,
+        "Cena_USD": 229.53,
+        "Sprememba_Odstotek": 1.27,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "General Dynamics",
+        "Koda": "GD",
+        "Market_Cap_USD": 91110000000.0,
+        "Cena_USD": 336.78,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Mitsui Bussan",
+        "Koda": "8031.T",
+        "Market_Cap_USD": 90800000000.0,
+        "Cena_USD": 31.95,
+        "Sprememba_Odstotek": 0.99,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Johnson Controls",
+        "Koda": "JCI",
+        "Market_Cap_USD": 90730000000.0,
+        "Cena_USD": 149.78,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "NTT (Nippon Telegraph & Telephone)",
+        "Koda": "9432.T",
+        "Market_Cap_USD": 90060000000.0,
+        "Cena_USD": 1.11,
+        "Sprememba_Odstotek": 0.8,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Cadence Design Systems",
+        "Koda": "CDNS",
+        "Market_Cap_USD": 89670000000.0,
+        "Cena_USD": 325.64,
+        "Sprememba_Odstotek": 0.15,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "PNC Financial Services",
+        "Koda": "PNC",
+        "Market_Cap_USD": 89640000000.0,
+        "Cena_USD": 224.71,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Itaú Unibanco",
+        "Koda": "ITUB",
+        "Market_Cap_USD": 88940000000.0,
+        "Cena_USD": 8.07,
+        "Sprememba_Odstotek": 0.49,
+        "Drzava": "Brazil"
+    },
+    {
+        "Ime": "Emerson",
+        "Koda": "EMR",
+        "Market_Cap_USD": 88470000000.0,
+        "Cena_USD": 158.62,
+        "Sprememba_Odstotek": 0.25,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Duke Energy",
+        "Koda": "DUK",
+        "Market_Cap_USD": 88340000000.0,
+        "Cena_USD": 113.31,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "3M",
+        "Koda": "MMM",
+        "Market_Cap_USD": 87350000000.0,
+        "Cena_USD": 169.39,
+        "Sprememba_Odstotek": 0.09,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Atlas Copco",
+        "Koda": "ATCO-B.ST",
+        "Market_Cap_USD": 87020000000.0,
+        "Cena_USD": 17.84,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "Sweden"
+    },
+    {
+        "Ime": "MercadoLibre",
+        "Koda": "MELI",
+        "Market_Cap_USD": 86990000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 2.09,
+        "Drzava": "Argentina"
+    },
+    {
+        "Ime": "KKR & Co.",
+        "Koda": "KKR",
+        "Market_Cap_USD": 86840000000.0,
+        "Cena_USD": 94.02,
+        "Sprememba_Odstotek": 2.74,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CSX Corporation",
+        "Koda": "CSX",
+        "Market_Cap_USD": 86830000000.0,
+        "Cena_USD": 46.88,
+        "Sprememba_Odstotek": 0.2,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Dior",
+        "Koda": "CDI.PA",
+        "Market_Cap_USD": 86480000000.0,
+        "Cena_USD": 479.35,
+        "Sprememba_Odstotek": 1.3,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Intercontinental Exchange",
+        "Koda": "ICE",
+        "Market_Cap_USD": 86430000000.0,
+        "Cena_USD": 153.97,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Elevance Health",
+        "Koda": "ELV",
+        "Market_Cap_USD": 86000000000.0,
+        "Cena_USD": 396.56,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Glencore",
+        "Koda": "GLCNF",
+        "Market_Cap_USD": 85990000000.0,
+        "Cena_USD": 7.33,
+        "Sprememba_Odstotek": 0.14,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Infineon",
+        "Koda": "IFX.DE",
+        "Market_Cap_USD": 84960000000.0,
+        "Cena_USD": 65.39,
+        "Sprememba_Odstotek": 1.43,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Xiaomi",
+        "Koda": "XIACF",
+        "Market_Cap_USD": 84870000000.0,
+        "Cena_USD": 3.3,
+        "Sprememba_Odstotek": 2.37,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Williams Companies",
+        "Koda": "WMB",
+        "Market_Cap_USD": 84200000000.0,
+        "Cena_USD": 68.84,
+        "Sprememba_Odstotek": 0.6,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Westpac Banking",
+        "Koda": "WBC.AX",
+        "Market_Cap_USD": 84080000000.0,
+        "Cena_USD": 24.62,
+        "Sprememba_Odstotek": 1.59,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "National Australia Bank",
+        "Koda": "NAB.AX",
+        "Market_Cap_USD": 84020000000.0,
+        "Cena_USD": 27.45,
+        "Sprememba_Odstotek": 1.5,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "Eoptolink Technology",
+        "Koda": "300502.SZ",
+        "Market_Cap_USD": 83190000000.0,
+        "Cena_USD": 59.65,
+        "Sprememba_Odstotek": 8.11,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Mitsubishi Heavy Industries",
+        "Koda": "7011.T",
+        "Market_Cap_USD": 83080000000.0,
+        "Cena_USD": 24.73,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Waste Management",
+        "Koda": "WM",
+        "Market_Cap_USD": 82900000000.0,
+        "Cena_USD": 207.42,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Lloyds Banking Group",
+        "Koda": "LYG",
+        "Market_Cap_USD": 82830000000.0,
+        "Cena_USD": 5.74,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Barclays",
+        "Koda": "BCS",
+        "Market_Cap_USD": 82540000000.0,
+        "Cena_USD": 24.68,
+        "Sprememba_Odstotek": 0.52,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Monster Beverage",
+        "Koda": "MNST",
+        "Market_Cap_USD": 82170000000.0,
+        "Cena_USD": 41.94,
+        "Sprememba_Odstotek": 2.7,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Brookfield Corporation",
+        "Koda": "BN",
+        "Market_Cap_USD": 81810000000.0,
+        "Cena_USD": 36.65,
+        "Sprememba_Odstotek": 0.6,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Suncor Energy",
+        "Koda": "SU",
+        "Market_Cap_USD": 81640000000.0,
+        "Cena_USD": 69.15,
+        "Sprememba_Odstotek": 1.41,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "TAQA",
+        "Koda": "TAQA.AE",
+        "Market_Cap_USD": 81430000000.0,
+        "Cena_USD": 0.72,
+        "Sprememba_Odstotek": 0.37,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "Hewlett Packard Enterprise",
+        "Koda": "HPE",
+        "Market_Cap_USD": 81360000000.0,
+        "Cena_USD": 61.29,
+        "Sprememba_Odstotek": 2.62,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "ANZ Bank",
+        "Koda": "ANZ.AX",
+        "Market_Cap_USD": 81180000000.0,
+        "Cena_USD": 26.96,
+        "Sprememba_Odstotek": 1.56,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "Marsh & McLennan Companies",
+        "Koda": "MRSH",
+        "Market_Cap_USD": 81040000000.0,
+        "Cena_USD": 169.82,
+        "Sprememba_Odstotek": 0.76,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "ENI",
+        "Koda": "E",
+        "Market_Cap_USD": 80650000000.0,
+        "Cena_USD": 56.18,
+        "Sprememba_Odstotek": 2.69,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "Synopsys",
+        "Koda": "SNPS",
+        "Market_Cap_USD": 80370000000.0,
+        "Cena_USD": 419.42,
+        "Sprememba_Odstotek": 1.49,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cintas",
+        "Koda": "CTAS",
+        "Market_Cap_USD": 80190000000.0,
+        "Cena_USD": 200.72,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Moody's",
+        "Koda": "MCO",
+        "Market_Cap_USD": 80040000000.0,
+        "Cena_USD": 462.18,
+        "Sprememba_Odstotek": 1.39,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Lumentum",
+        "Koda": "LITE",
+        "Market_Cap_USD": 80010000000.0,
+        "Cena_USD": 892.02,
+        "Sprememba_Odstotek": 5.27,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Sherwin-Williams",
+        "Koda": "SHW",
+        "Market_Cap_USD": 79840000000.0,
+        "Cena_USD": 328.9,
+        "Sprememba_Odstotek": 0.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "WuXi AppTec",
+        "Koda": "2359.HK",
+        "Market_Cap_USD": 79700000000.0,
+        "Cena_USD": 26.26,
+        "Sprememba_Odstotek": 1.72,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "United Parcel Service",
+        "Koda": "UPS",
+        "Market_Cap_USD": 79600000000.0,
+        "Cena_USD": 93.57,
+        "Sprememba_Odstotek": 0.42,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "DoorDash",
+        "Koda": "DASH",
+        "Market_Cap_USD": 79310000000.0,
+        "Cena_USD": 183.06,
+        "Sprememba_Odstotek": 5.33,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Enterprise Products",
+        "Koda": "EPD",
+        "Market_Cap_USD": 79010000000.0,
+        "Cena_USD": 36.59,
+        "Sprememba_Odstotek": 0.44,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "American Tower",
+        "Koda": "AMT",
+        "Market_Cap_USD": 78670000000.0,
+        "Cena_USD": 168.84,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Ecolab",
+        "Koda": "ECL",
+        "Market_Cap_USD": 78450000000.0,
+        "Cena_USD": 279.87,
+        "Sprememba_Odstotek": 0.14,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Regeneron Pharmaceuticals",
+        "Koda": "REGN",
+        "Market_Cap_USD": 78240000000.0,
+        "Cena_USD": 759.94,
+        "Sprememba_Odstotek": 3.57,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Illinois Tool Works",
+        "Koda": "ITW",
+        "Market_Cap_USD": 78210000000.0,
+        "Cena_USD": 274.62,
+        "Sprememba_Odstotek": 0.11,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Tata Consultancy Services",
+        "Koda": "TCS.NS",
+        "Market_Cap_USD": 78040000000.0,
+        "Cena_USD": 21.57,
+        "Sprememba_Odstotek": 0.54,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Bloom Energy",
+        "Koda": "BE",
+        "Market_Cap_USD": 77830000000.0,
+        "Cena_USD": 264.28,
+        "Sprememba_Odstotek": 8.46,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Japan Post Bank",
+        "Koda": "7182.T",
+        "Market_Cap_USD": 77730000000.0,
+        "Cena_USD": 21.82,
+        "Sprememba_Odstotek": 2.42,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Simon Property Group",
+        "Koda": "SPG",
+        "Market_Cap_USD": 77720000000.0,
+        "Cena_USD": 204.74,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "NetEase",
+        "Koda": "NTES",
+        "Market_Cap_USD": 77530000000.0,
+        "Cena_USD": 121.1,
+        "Sprememba_Odstotek": 4.93,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Comcast",
+        "Koda": "CMCSA",
+        "Market_Cap_USD": 77410000000.0,
+        "Cena_USD": 21.82,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Japan Tobacco",
+        "Koda": "2914.T",
+        "Market_Cap_USD": 77380000000.0,
+        "Cena_USD": 43.59,
+        "Sprememba_Odstotek": 1.34,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Warner Bros. Discovery",
+        "Koda": "WBD",
+        "Market_Cap_USD": 77350000000.0,
+        "Cena_USD": 30.86,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "BAE Systems",
+        "Koda": "BA.L",
+        "Market_Cap_USD": 77320000000.0,
+        "Cena_USD": 26.41,
+        "Sprememba_Odstotek": 0.96,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Moderna",
+        "Koda": "MRNA",
+        "Market_Cap_USD": 77300000000.0,
+        "Cena_USD": 193.62,
+        "Sprememba_Odstotek": 2.64,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Mondelez International",
+        "Koda": "MDLZ",
+        "Market_Cap_USD": 76970000000.0,
+        "Cena_USD": 60.31,
+        "Sprememba_Odstotek": 0.1,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "EssilorLuxottica",
+        "Koda": "EL.PA",
+        "Market_Cap_USD": 76700000000.0,
+        "Cena_USD": 167.22,
+        "Sprememba_Odstotek": 2.22,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "SLB (Schlumberger)",
+        "Koda": "SLB",
+        "Market_Cap_USD": 76630000000.0,
+        "Cena_USD": 51.64,
+        "Sprememba_Odstotek": 0.18,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CPKC (Canadian Pacific Kansas City)",
+        "Koda": "CP",
+        "Market_Cap_USD": 76180000000.0,
+        "Cena_USD": 86.67,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "The Travelers Companies",
+        "Koda": "TRV",
+        "Market_Cap_USD": 75900000000.0,
+        "Cena_USD": 363.9,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "National Grid",
+        "Koda": "NGG",
+        "Market_Cap_USD": 75870000000.0,
+        "Cena_USD": 75.47,
+        "Sprememba_Odstotek": 0.03,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Ross Stores",
+        "Koda": "ROST",
+        "Market_Cap_USD": 75840000000.0,
+        "Cena_USD": 236.44,
+        "Sprememba_Odstotek": 0.14,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Motorola Solutions",
+        "Koda": "MSI",
+        "Market_Cap_USD": 75420000000.0,
+        "Cena_USD": 455.76,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CITIC Bank",
+        "Koda": "601998.SS",
+        "Market_Cap_USD": 75310000000.0,
+        "Cena_USD": 1.35,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "General Motors",
+        "Koda": "GM",
+        "Market_Cap_USD": 74580000000.0,
+        "Cena_USD": 82.46,
+        "Sprememba_Odstotek": 0.2,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "SoftBank Corp.",
+        "Koda": "9434.T",
+        "Market_Cap_USD": 74410000000.0,
+        "Cena_USD": 1.56,
+        "Sprememba_Odstotek": 0.57,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Generali",
+        "Koda": "G.MI",
+        "Market_Cap_USD": 74210000000.0,
+        "Cena_USD": 49.27,
+        "Sprememba_Odstotek": 0.87,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "EOG Resources",
+        "Koda": "EOG",
+        "Market_Cap_USD": 74150000000.0,
+        "Cena_USD": 141.38,
+        "Sprememba_Odstotek": 0.73,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Munich RE (Münchener Rück)",
+        "Koda": "MUV2.DE",
+        "Market_Cap_USD": 73650000000.0,
+        "Cena_USD": 585.43,
+        "Sprememba_Odstotek": 0.9,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "NatWest Group",
+        "Koda": "NWG",
+        "Market_Cap_USD": 73010000000.0,
+        "Cena_USD": 18.41,
+        "Sprememba_Odstotek": 0.43,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Northrop Grumman",
+        "Koda": "NOC",
+        "Market_Cap_USD": 72900000000.0,
+        "Cena_USD": 513.21,
+        "Sprememba_Odstotek": 0.53,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Target",
+        "Koda": "TGT",
+        "Market_Cap_USD": 72730000000.0,
+        "Cena_USD": 160.11,
+        "Sprememba_Odstotek": 1.69,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Canadian National Railway",
+        "Koda": "CNI",
+        "Market_Cap_USD": 72700000000.0,
+        "Cena_USD": 120.34,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "DHL Group (Deutsche Post)",
+        "Koda": "DHL.DE",
+        "Market_Cap_USD": 72420000000.0,
+        "Cena_USD": 65.25,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Intuit",
+        "Koda": "INTU",
+        "Market_Cap_USD": 72030000000.0,
+        "Cena_USD": 269.55,
+        "Sprememba_Odstotek": 2.26,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Manulife Financial",
+        "Koda": "MFC",
+        "Market_Cap_USD": 71940000000.0,
+        "Cena_USD": 43.36,
+        "Sprememba_Odstotek": 1.14,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Cummins",
+        "Koda": "CMI",
+        "Market_Cap_USD": 71730000000.0,
+        "Cena_USD": 521.08,
+        "Sprememba_Odstotek": 0.76,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "The Cigna Group",
+        "Koda": "CI",
+        "Market_Cap_USD": 71520000000.0,
+        "Cena_USD": 270.7,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Hilton Worldwide",
+        "Koda": "HLT",
+        "Market_Cap_USD": 71000000000.0,
+        "Cena_USD": 315.46,
+        "Sprememba_Odstotek": 0.48,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Apollo Global Management",
+        "Koda": "APO",
+        "Market_Cap_USD": 70850000000.0,
+        "Cena_USD": 119.98,
+        "Sprememba_Odstotek": 1.41,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bank of China (Hong Kong)",
+        "Koda": "2388.HK",
+        "Market_Cap_USD": 70690000000.0,
+        "Cena_USD": 6.69,
+        "Sprememba_Odstotek": 2.54,
+        "Drzava": "Hong Kong"
+    },
+    {
+        "Ime": "Norfolk Southern",
+        "Koda": "NSC",
+        "Market_Cap_USD": 70370000000.0,
+        "Cena_USD": 313.34,
+        "Sprememba_Odstotek": 0.11,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Brookfield Asset Management",
+        "Koda": "BAM",
+        "Market_Cap_USD": 70280000000.0,
+        "Cena_USD": 44.0,
+        "Sprememba_Odstotek": 1.31,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Ferrari",
+        "Koda": "RACE",
+        "Market_Cap_USD": 70180000000.0,
+        "Cena_USD": 399.79,
+        "Sprememba_Odstotek": 2.81,
+        "Drzava": "Italy"
+    },
+    {
+        "Ime": "Vinci",
+        "Koda": "DG.PA",
+        "Market_Cap_USD": 70130000000.0,
+        "Cena_USD": 126.98,
+        "Sprememba_Odstotek": 0.36,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "KDDI",
+        "Koda": "9433.T",
+        "Market_Cap_USD": 70110000000.0,
+        "Cena_USD": 18.97,
+        "Sprememba_Odstotek": 1.89,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "O'Reilly Automotive",
+        "Koda": "ORLY",
+        "Market_Cap_USD": 69930000000.0,
+        "Cena_USD": 86.45,
+        "Sprememba_Odstotek": 0.39,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "ADNOC Gas",
+        "Koda": "ADNOCGAS.AE",
+        "Market_Cap_USD": 69800000000.0,
+        "Cena_USD": 0.91,
+        "Sprememba_Odstotek": 0.3,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "Sberbank",
+        "Koda": "SBER.ME",
+        "Market_Cap_USD": 69790000000.0,
+        "Cena_USD": 3.28,
+        "Sprememba_Odstotek": 0.1,
+        "Drzava": "Russia"
+    },
+    {
+        "Ime": "Nordea Bank",
+        "Koda": "NDA-FI.HE",
+        "Market_Cap_USD": 69110000000.0,
+        "Cena_USD": 20.36,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "Finland"
+    },
+    {
+        "Ime": "Carvana",
+        "Koda": "CVNA",
+        "Market_Cap_USD": 69030000000.0,
+        "Cena_USD": 62.28,
+        "Sprememba_Odstotek": 4.27,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Colgate-Palmolive",
+        "Koda": "CL",
+        "Market_Cap_USD": 68880000000.0,
+        "Cena_USD": 86.42,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Energy Transfer LP",
+        "Koda": "ET",
+        "Market_Cap_USD": 68650000000.00001,
+        "Cena_USD": 19.94,
+        "Sprememba_Odstotek": 1.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "NAURA Technology Group",
+        "Koda": "002371.SZ",
+        "Market_Cap_USD": 68650000000.00001,
+        "Cena_USD": 94.6,
+        "Sprememba_Odstotek": 2.93,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Merck KGaA",
+        "Koda": "MRK.DE",
+        "Market_Cap_USD": 68470000000.0,
+        "Cena_USD": 157.5,
+        "Sprememba_Odstotek": 2.63,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Hyundai",
+        "Koda": "005380.KS",
+        "Market_Cap_USD": 68319999999.99999,
+        "Cena_USD": 260.95,
+        "Sprememba_Odstotek": 0.28,
+        "Drzava": "S. Korea"
+    },
+    {
+        "Ime": "Kinder Morgan",
+        "Koda": "KMI",
+        "Market_Cap_USD": 68209999999.99999,
+        "Cena_USD": 30.64,
+        "Sprememba_Odstotek": 0.37,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Barrick Gold",
+        "Koda": "B",
+        "Market_Cap_USD": 68170000000.0,
+        "Cena_USD": 41.42,
+        "Sprememba_Odstotek": 3.4,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Deutsche Bank",
+        "Koda": "DB",
+        "Market_Cap_USD": 67959999999.99999,
+        "Cena_USD": 36.17,
+        "Sprememba_Odstotek": 1.09,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Digital Realty",
+        "Koda": "DLR",
+        "Market_Cap_USD": 67930000000.00001,
+        "Cena_USD": 179.87,
+        "Sprememba_Odstotek": 0.71,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Mitsubishi Electric",
+        "Koda": "6503.T",
+        "Market_Cap_USD": 67870000000.00001,
+        "Cena_USD": 33.17,
+        "Sprememba_Odstotek": 0.5,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Standard Chartered",
+        "Koda": "STAN.L",
+        "Market_Cap_USD": 67629999999.99999,
+        "Cena_USD": 31.08,
+        "Sprememba_Odstotek": 1.3,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "FedEx",
+        "Koda": "FDX",
+        "Market_Cap_USD": 67629999999.99999,
+        "Cena_USD": 285.79,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "ENGIE",
+        "Koda": "ENGI.PA",
+        "Market_Cap_USD": 67459999999.99999,
+        "Cena_USD": 26.55,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Shin-Etsu Chemical",
+        "Koda": "4063.T",
+        "Market_Cap_USD": 67140000000.0,
+        "Cena_USD": 36.99,
+        "Sprememba_Odstotek": 1.27,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Volvo Group",
+        "Koda": "VOLV-A.ST",
+        "Market_Cap_USD": 67019999999.99999,
+        "Cena_USD": 32.96,
+        "Sprememba_Odstotek": 0.8,
+        "Drzava": "Sweden"
+    },
+    {
+        "Ime": "Vingroup Company",
+        "Koda": "VIC.VN",
+        "Market_Cap_USD": 66959999999.99999,
+        "Cena_USD": 8.93,
+        "Sprememba_Odstotek": 0.04,
+        "Drzava": "Vietnam"
+    },
+    {
+        "Ime": "Honeywell",
+        "Koda": "HON",
+        "Market_Cap_USD": 66870000000.00001,
+        "Cena_USD": 211.01,
+        "Sprememba_Odstotek": 0.72,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "SMIC",
+        "Koda": "0981.HK",
+        "Market_Cap_USD": 66629999999.99999,
+        "Cena_USD": 7.78,
+        "Sprememba_Odstotek": 3.63,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Chugai Pharmaceutical",
+        "Koda": "4519.T",
+        "Market_Cap_USD": 66610000000.0,
+        "Cena_USD": 40.48,
+        "Sprememba_Odstotek": 3.84,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Panasonic",
+        "Koda": "6752.T",
+        "Market_Cap_USD": 66390000000.0,
+        "Cena_USD": 28.44,
+        "Sprememba_Odstotek": 2.59,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Monolithic Power Systems",
+        "Koda": "MPWR",
+        "Market_Cap_USD": 65700000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 2.22,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Macquarie Group Limited",
+        "Koda": "MQG.AX",
+        "Market_Cap_USD": 65500000000.0,
+        "Cena_USD": 171.88,
+        "Sprememba_Odstotek": 2.28,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "Republic Services",
+        "Koda": "RSG",
+        "Market_Cap_USD": 65440000000.0,
+        "Cena_USD": 213.72,
+        "Sprememba_Odstotek": 0.76,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "America Movil",
+        "Koda": "AMX",
+        "Market_Cap_USD": 65330000000.0,
+        "Cena_USD": 21.85,
+        "Sprememba_Odstotek": 0.81,
+        "Drzava": "Mexico"
+    },
+    {
+        "Ime": "Royal Caribbean Group",
+        "Koda": "RCL",
+        "Market_Cap_USD": 65129999999.99999,
+        "Cena_USD": 243.56,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "United Rentals",
+        "Koda": "URI",
+        "Market_Cap_USD": 65120000000.00001,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Fubon Financial",
+        "Koda": "2881.TW",
+        "Market_Cap_USD": 64540000000.00001,
+        "Cena_USD": 4.72,
+        "Sprememba_Odstotek": 1.96,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "American Electric Power",
+        "Koda": "AEP",
+        "Market_Cap_USD": 64230000000.00001,
+        "Cena_USD": 117.99,
+        "Sprememba_Odstotek": 0.3,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "The Saudi National Bank",
+        "Koda": "1180.SR",
+        "Market_Cap_USD": 63960000000.0,
+        "Cena_USD": 10.78,
+        "Sprememba_Odstotek": 1.65,
+        "Drzava": "S. Arabia"
+    },
+    {
+        "Ime": "Ma'aden",
+        "Koda": "1211.SR",
+        "Market_Cap_USD": 63950000000.0,
+        "Cena_USD": 16.48,
+        "Sprememba_Odstotek": 0.4,
+        "Drzava": "S. Arabia"
+    },
+    {
+        "Ime": "Bajaj Finance",
+        "Koda": "BAJFINANCE.NS",
+        "Market_Cap_USD": 63840000000.0,
+        "Cena_USD": 10.26,
+        "Sprememba_Odstotek": 1.19,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Boston Scientific",
+        "Koda": "BSX",
+        "Market_Cap_USD": 63540000000.0,
+        "Cena_USD": 43.84,
+        "Sprememba_Odstotek": 0.17,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Nebius Group",
+        "Koda": "NBIS",
+        "Market_Cap_USD": 63530000000.0,
+        "Cena_USD": 233.72,
+        "Sprememba_Odstotek": 1.52,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "TE Connectivity",
+        "Koda": "TEL",
+        "Market_Cap_USD": 62780000000.0,
+        "Cena_USD": 216.85,
+        "Sprememba_Odstotek": 0.8,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "LG Energy Solution",
+        "Koda": "373220.KS",
+        "Market_Cap_USD": 62690000000.0,
+        "Cena_USD": 267.94,
+        "Sprememba_Odstotek": 3.56,
+        "Drzava": "S. Korea"
+    },
+    {
+        "Ime": "Wheaton Precious Metals",
+        "Koda": "WPM",
+        "Market_Cap_USD": 62620000000.0,
+        "Cena_USD": 137.9,
+        "Sprememba_Odstotek": 3.51,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Hong Kong Exchanges & Clearing",
+        "Koda": "0388.HK",
+        "Market_Cap_USD": 62610000000.0,
+        "Cena_USD": 49.54,
+        "Sprememba_Odstotek": 0.05,
+        "Drzava": "Hong Kong"
+    },
+    {
+        "Ime": "Air Products and Chemicals",
+        "Koda": "APD",
+        "Market_Cap_USD": 62420000000.0,
+        "Cena_USD": 280.34,
+        "Sprememba_Odstotek": 0.5,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Crédit Agricole",
+        "Koda": "ACA.PA",
+        "Market_Cap_USD": 62320000000.0,
+        "Cena_USD": 20.55,
+        "Sprememba_Odstotek": 0.6,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Strategy \n (MicroStrategy)",
+        "Koda": "MSTR",
+        "Market_Cap_USD": 62290000000.0,
+        "Cena_USD": 156.8,
+        "Sprememba_Odstotek": 1.14,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "MetLife",
+        "Koda": "MET",
+        "Market_Cap_USD": 61520000000.0,
+        "Cena_USD": 96.82,
+        "Sprememba_Odstotek": 0.9,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Astera Labs",
+        "Koda": "ALAB",
+        "Market_Cap_USD": 61440000000.0,
+        "Cena_USD": 354.2,
+        "Sprememba_Odstotek": 2.86,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "CSL",
+        "Koda": "CSL.AX",
+        "Market_Cap_USD": 61340000000.0,
+        "Cena_USD": 127.84,
+        "Sprememba_Odstotek": 2.8,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "TransDigm Group",
+        "Koda": "TDG",
+        "Market_Cap_USD": 61270000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.68,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Unimicron",
+        "Koda": "3037.TW",
+        "Market_Cap_USD": 61200000000.0,
+        "Cena_USD": 37.31,
+        "Sprememba_Odstotek": 2.16,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "TC Energy",
+        "Koda": "TRP",
+        "Market_Cap_USD": 61120000000.0,
+        "Cena_USD": 58.67,
+        "Sprememba_Odstotek": 0.19,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Imperial Oil",
+        "Koda": "IMO",
+        "Market_Cap_USD": 61090000000.0,
+        "Cena_USD": 122.86,
+        "Sprememba_Odstotek": 1.37,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Teradyne",
+        "Koda": "TER",
+        "Market_Cap_USD": 61050000000.0,
+        "Cena_USD": 390.54,
+        "Sprememba_Odstotek": 1.97,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Nu Holdings",
+        "Koda": "NU",
+        "Market_Cap_USD": 60800000000.0,
+        "Cena_USD": 12.59,
+        "Sprememba_Odstotek": 7.37,
+        "Drzava": "Brazil"
+    },
+    {
+        "Ime": "Keysight",
+        "Koda": "KEYS",
+        "Market_Cap_USD": 60800000000.0,
+        "Cena_USD": 357.16,
+        "Sprememba_Odstotek": 1.38,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Sea Limited",
+        "Koda": "SE",
+        "Market_Cap_USD": 60740000000.0,
+        "Cena_USD": 99.18,
+        "Sprememba_Odstotek": 0.38,
+        "Drzava": "Singapore"
+    },
+    {
+        "Ime": "CITIC Securities",
+        "Koda": "600030.SS",
+        "Market_Cap_USD": 60480000000.0,
+        "Cena_USD": 3.87,
+        "Sprememba_Odstotek": 1.33,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "First Abu Dhabi Bank",
+        "Koda": "FAB.AE",
+        "Market_Cap_USD": 60160000000.0,
+        "Cena_USD": 5.45,
+        "Sprememba_Odstotek": 0.1,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "Takeda Pharmaceutical",
+        "Koda": "TAK",
+        "Market_Cap_USD": 60030000000.0,
+        "Cena_USD": 18.8,
+        "Sprememba_Odstotek": 0.32,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Argenx",
+        "Koda": "ARGX",
+        "Market_Cap_USD": 59740000000.0,
+        "Cena_USD": 960.72,
+        "Sprememba_Odstotek": 0.13,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Natera",
+        "Koda": "NTRA",
+        "Market_Cap_USD": 59470000000.0,
+        "Cena_USD": 412.63,
+        "Sprememba_Odstotek": 0.02,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Nintendo",
+        "Koda": "7974.T",
+        "Market_Cap_USD": 59450000000.0,
+        "Cena_USD": 50.9,
+        "Sprememba_Odstotek": 1.25,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "United Microelectronics",
+        "Koda": "UMC",
+        "Market_Cap_USD": 59430000000.0,
+        "Cena_USD": 23.7,
+        "Sprememba_Odstotek": 2.51,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "Nan Ya Plastics",
+        "Koda": "1303.TW",
+        "Market_Cap_USD": 59430000000.0,
+        "Cena_USD": 7.49,
+        "Sprememba_Odstotek": 4.62,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "NXP Semiconductors",
+        "Koda": "NXPI",
+        "Market_Cap_USD": 59390000000.0,
+        "Cena_USD": 235.53,
+        "Sprememba_Odstotek": 1.07,
+        "Drzava": "Netherlands"
+    },
+    {
+        "Ime": "Société Générale",
+        "Koda": "GLE.PA",
+        "Market_Cap_USD": 59360000000.0,
+        "Cena_USD": 81.91,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Deutsche Börse",
+        "Koda": "DB1.DE",
+        "Market_Cap_USD": 59180000000.0,
+        "Cena_USD": 328.29,
+        "Sprememba_Odstotek": 1.4,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Targa Resources",
+        "Koda": "TRGP",
+        "Market_Cap_USD": 59140000000.0,
+        "Cena_USD": 275.84,
+        "Sprememba_Odstotek": 0.72,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Paccar",
+        "Koda": "PCAR",
+        "Market_Cap_USD": 58980000000.0,
+        "Cena_USD": 112.06,
+        "Sprememba_Odstotek": 0.68,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "W. W. Grainger",
+        "Koda": "GWW",
+        "Market_Cap_USD": 58940000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Comfort Systems USA",
+        "Koda": "FIX",
+        "Market_Cap_USD": 58860000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.83,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "KBC",
+        "Koda": "KBCSF",
+        "Market_Cap_USD": 58730000000.0,
+        "Cena_USD": 147.23,
+        "Sprememba_Odstotek": 2.57,
+        "Drzava": "Belgium"
+    },
+    {
+        "Ime": "Wesfarmers",
+        "Koda": "WES.AX",
+        "Market_Cap_USD": 58710000000.0,
+        "Cena_USD": 51.71,
+        "Sprememba_Odstotek": 0.03,
+        "Drzava": "Australia"
+    },
+    {
+        "Ime": "Great-West Lifeco",
+        "Koda": "GWO.TO",
+        "Market_Cap_USD": 58660000000.0,
+        "Cena_USD": 65.53,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Cencora",
+        "Koda": "COR",
+        "Market_Cap_USD": 58370000000.0,
+        "Cena_USD": 305.89,
+        "Sprememba_Odstotek": 0.34,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Arthur J. Gallagher & Co.",
+        "Koda": "AJG",
+        "Market_Cap_USD": 58350000000.0,
+        "Cena_USD": 227.65,
+        "Sprememba_Odstotek": 1.49,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cenovus Energy",
+        "Koda": "CVE",
+        "Market_Cap_USD": 58110000000.0,
+        "Cena_USD": 31.51,
+        "Sprememba_Odstotek": 1.88,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Fastenal",
+        "Koda": "FAST",
+        "Market_Cap_USD": 58000000000.0,
+        "Cena_USD": 50.54,
+        "Sprememba_Odstotek": 0.23,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Truist Financial Corporation",
+        "Koda": "TFC",
+        "Market_Cap_USD": 57830000000.0,
+        "Cena_USD": 47.34,
+        "Sprememba_Odstotek": 0.67,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Aon",
+        "Koda": "AON",
+        "Market_Cap_USD": 57810000000.0,
+        "Cena_USD": 272.55,
+        "Sprememba_Odstotek": 1.96,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Vale",
+        "Koda": "VALE",
+        "Market_Cap_USD": 57720000000.0,
+        "Cena_USD": 13.56,
+        "Sprememba_Odstotek": 0.33,
+        "Drzava": "Brazil"
+    },
+    {
+        "Ime": "RELX",
+        "Koda": "RELX",
+        "Market_Cap_USD": 57660000000.0,
+        "Cena_USD": 33.17,
+        "Sprememba_Odstotek": 1.04,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Luxshare Precision",
+        "Koda": "002475.SZ",
+        "Market_Cap_USD": 57660000000.0,
+        "Cena_USD": 7.45,
+        "Sprememba_Odstotek": 4.0,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Ametek",
+        "Koda": "AME",
+        "Market_Cap_USD": 57580000000.0,
+        "Cena_USD": 251.18,
+        "Sprememba_Odstotek": 0.17,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Allstate",
+        "Koda": "ALL",
+        "Market_Cap_USD": 57570000000.0,
+        "Cena_USD": 227.71,
+        "Sprememba_Odstotek": 0.05,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Baker Hughes",
+        "Koda": "BKR",
+        "Market_Cap_USD": 57540000000.0,
+        "Cena_USD": 57.97,
+        "Sprememba_Odstotek": 0.24,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Saudi Telecom Company",
+        "Koda": "7010.SR",
+        "Market_Cap_USD": 57280000000.0,
+        "Cena_USD": 11.48,
+        "Sprememba_Odstotek": 0.6,
+        "Drzava": "S. Arabia"
+    },
+    {
+        "Ime": "MPLX",
+        "Koda": "MPLX",
+        "Market_Cap_USD": 57230000000.0,
+        "Cena_USD": 56.45,
+        "Sprememba_Odstotek": 0.62,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Aflac",
+        "Koda": "AFL",
+        "Market_Cap_USD": 57180000000.0,
+        "Cena_USD": 114.07,
+        "Sprememba_Odstotek": 0.31,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "National Bank of Canada",
+        "Koda": "NA.TO",
+        "Market_Cap_USD": 57010000000.0,
+        "Cena_USD": 148.92,
+        "Sprememba_Odstotek": 0.0,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Occidental Petroleum",
+        "Koda": "OXY",
+        "Market_Cap_USD": 56900000000.0,
+        "Cena_USD": 56.93,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Bayer",
+        "Koda": "BAYN.DE",
+        "Market_Cap_USD": 56820000000.0,
+        "Cena_USD": 57.84,
+        "Sprememba_Odstotek": 1.72,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Anglo American",
+        "Koda": "AAL.L",
+        "Market_Cap_USD": 56800000000.0,
+        "Cena_USD": 53.01,
+        "Sprememba_Odstotek": 1.14,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Nongfu Spring",
+        "Koda": "9633.HK",
+        "Market_Cap_USD": 56570000000.0,
+        "Cena_USD": 5.03,
+        "Sprememba_Odstotek": 2.76,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Garmin",
+        "Koda": "GRMN",
+        "Market_Cap_USD": 56490000000.0,
+        "Cena_USD": 292.92,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Industrial Bank",
+        "Koda": "601166.SS",
+        "Market_Cap_USD": 56140000000.0,
+        "Cena_USD": 2.65,
+        "Sprememba_Odstotek": 0.62,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Lenovo",
+        "Koda": "0992.HK",
+        "Market_Cap_USD": 56130000000.0,
+        "Cena_USD": 4.53,
+        "Sprememba_Odstotek": 4.47,
+        "Drzava": "Hong Kong"
+    },
+    {
+        "Ime": "Nucor",
+        "Koda": "NUE",
+        "Market_Cap_USD": 56080000000.0,
+        "Cena_USD": 247.18,
+        "Sprememba_Odstotek": 0.03,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cement Roadstone Holding",
+        "Koda": "CRH",
+        "Market_Cap_USD": 56080000000.0,
+        "Cena_USD": 84.3,
+        "Sprememba_Odstotek": 0.88,
+        "Drzava": "Ireland"
+    },
+    {
+        "Ime": "Nokia",
+        "Koda": "NOK",
+        "Market_Cap_USD": 56070000000.0,
+        "Cena_USD": 10.02,
+        "Sprememba_Odstotek": 3.61,
+        "Drzava": "Finland"
+    },
+    {
+        "Ime": "Cheniere Energy",
+        "Koda": "LNG",
+        "Market_Cap_USD": 55880000000.0,
+        "Cena_USD": 270.58,
+        "Sprememba_Odstotek": 0.76,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "UOB",
+        "Koda": "U11.SI",
+        "Market_Cap_USD": 55830000000.0,
+        "Cena_USD": 33.87,
+        "Sprememba_Odstotek": 1.69,
+        "Drzava": "Singapore"
+    },
+    {
+        "Ime": "Oneok",
+        "Koda": "OKE",
+        "Market_Cap_USD": 55730000000.0,
+        "Cena_USD": 88.41,
+        "Sprememba_Odstotek": 0.25,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Erste Group Bank",
+        "Koda": "EBO.F",
+        "Market_Cap_USD": 55680000000.0,
+        "Cena_USD": 143.34,
+        "Sprememba_Odstotek": 2.27,
+        "Drzava": "Austria"
+    },
+    {
+        "Ime": "Coherent Corp.",
+        "Koda": "COHR",
+        "Market_Cap_USD": 54850000000.0,
+        "Cena_USD": 280.12,
+        "Sprememba_Odstotek": 5.31,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Singtel",
+        "Koda": "Z74.SI",
+        "Market_Cap_USD": 54690000000.0,
+        "Cena_USD": 3.36,
+        "Sprememba_Odstotek": 0.23,
+        "Drzava": "Singapore"
+    },
+    {
+        "Ime": "Delta Air Lines",
+        "Koda": "DAL",
+        "Market_Cap_USD": 54560000000.0,
+        "Cena_USD": 82.97,
+        "Sprememba_Odstotek": 2.32,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Larsen & Toubro",
+        "Koda": "LT.NS",
+        "Market_Cap_USD": 53990000000.0,
+        "Cena_USD": 39.24,
+        "Sprememba_Odstotek": 2.83,
+        "Drzava": "India"
+    },
+    {
+        "Ime": "Emirates NBD Bank PJSC",
+        "Koda": "EMIRATESNBD.AE",
+        "Market_Cap_USD": 53860000000.0,
+        "Cena_USD": 8.53,
+        "Sprememba_Odstotek": 1.36,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "Sumitomo",
+        "Koda": "8053.T",
+        "Market_Cap_USD": 53770000000.0,
+        "Cena_USD": 11.38,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Nike",
+        "Koda": "NKE",
+        "Market_Cap_USD": 53740000000.0,
+        "Cena_USD": 36.23,
+        "Sprememba_Odstotek": 1.34,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Thales",
+        "Koda": "HO.PA",
+        "Market_Cap_USD": 53510000000.0,
+        "Cena_USD": 260.2,
+        "Sprememba_Odstotek": 0.22,
+        "Drzava": "France"
+    },
+    {
+        "Ime": "Public Storage",
+        "Koda": "PSA",
+        "Market_Cap_USD": 53500000000.0,
+        "Cena_USD": 286.36,
+        "Sprememba_Odstotek": 0.56,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "BTG Pactual",
+        "Koda": "BPAC3.SA",
+        "Market_Cap_USD": 53280000000.0,
+        "Cena_USD": 4.6,
+        "Sprememba_Odstotek": 0.62,
+        "Drzava": "Brazil"
+    },
+    {
+        "Ime": "Dominion Energy",
+        "Koda": "D",
+        "Market_Cap_USD": 53060000000.0,
+        "Cena_USD": 60.33,
+        "Sprememba_Odstotek": 0.58,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "RWE",
+        "Koda": "RWE.DE",
+        "Market_Cap_USD": 52840000000.0,
+        "Cena_USD": 67.75,
+        "Sprememba_Odstotek": 0.34,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "The People's Insurance Company (PICC)",
+        "Koda": "601319.SS",
+        "Market_Cap_USD": 52790000000.0,
+        "Cena_USD": 1.19,
+        "Sprememba_Odstotek": 0.87,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "ArcelorMittal",
+        "Koda": "MT",
+        "Market_Cap_USD": 52700000000.0,
+        "Cena_USD": 70.04,
+        "Sprememba_Odstotek": 0.93,
+        "Drzava": "Luxembourg"
+    },
+    {
+        "Ime": "Commerzbank",
+        "Koda": "CBK.F",
+        "Market_Cap_USD": 52680000000.0,
+        "Cena_USD": 48.74,
+        "Sprememba_Odstotek": 1.73,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "London Stock Exchange",
+        "Koda": "LSEG.L",
+        "Market_Cap_USD": 52600000000.0,
+        "Cena_USD": 109.13,
+        "Sprememba_Odstotek": 0.32,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Diamondback Energy",
+        "Koda": "FANG",
+        "Market_Cap_USD": 52470000000.0,
+        "Cena_USD": 187.4,
+        "Sprememba_Odstotek": 0.39,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Realty Income",
+        "Koda": "O",
+        "Market_Cap_USD": 52440000000.0,
+        "Cena_USD": 55.43,
+        "Sprememba_Odstotek": 0.2,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Corteva",
+        "Koda": "CTVA",
+        "Market_Cap_USD": 52420000000.0,
+        "Cena_USD": 78.57,
+        "Sprememba_Odstotek": 0.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "China Telecom",
+        "Koda": "0728.HK",
+        "Market_Cap_USD": 52320000000.0,
+        "Cena_USD": 0.57,
+        "Sprememba_Odstotek": 2.16,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "Fujikura",
+        "Koda": "5803.T",
+        "Market_Cap_USD": 52220000000.0,
+        "Cena_USD": 31.54,
+        "Sprememba_Odstotek": 0.58,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Devon Energy",
+        "Koda": "DVN",
+        "Market_Cap_USD": 52110000000.0,
+        "Cena_USD": 47.38,
+        "Sprememba_Odstotek": 0.7,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Emirates Telecom (Etisalat Group)",
+        "Koda": "EAND.AE",
+        "Market_Cap_USD": 52090000000.0,
+        "Cena_USD": 5.99,
+        "Sprememba_Odstotek": 1.38,
+        "Drzava": "UAE"
+    },
+    {
+        "Ime": "Rheinmetall",
+        "Koda": "RHM.F",
+        "Market_Cap_USD": 52060000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.39,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Nasdaq",
+        "Koda": "NDAQ",
+        "Market_Cap_USD": 51710000000.0,
+        "Cena_USD": 92.51,
+        "Sprememba_Odstotek": 1.11,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cardinal Health",
+        "Koda": "CAH",
+        "Market_Cap_USD": 51260000000.0,
+        "Cena_USD": 221.38,
+        "Sprememba_Odstotek": 0.53,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Meituan",
+        "Koda": "3690.HK",
+        "Market_Cap_USD": 51260000000.0,
+        "Cena_USD": 9.17,
+        "Sprememba_Odstotek": 0.35,
+        "Drzava": "China"
+    },
+    {
+        "Ime": "E.ON",
+        "Koda": "EOAN.DE",
+        "Market_Cap_USD": 51250000000.0,
+        "Cena_USD": 19.61,
+        "Sprememba_Odstotek": 0.41,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "Loblaw Companies",
+        "Koda": "L.TO",
+        "Market_Cap_USD": 51190000000.0,
+        "Cena_USD": 44.3,
+        "Sprememba_Odstotek": 0.06,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Alimentation Couche-Tard",
+        "Koda": "ATD.TO",
+        "Market_Cap_USD": 51140000000.0,
+        "Cena_USD": 55.71,
+        "Sprememba_Odstotek": 0.52,
+        "Drzava": "Canada"
+    },
+    {
+        "Ime": "Coinbase",
+        "Koda": "COIN",
+        "Market_Cap_USD": 51060000000.0,
+        "Cena_USD": 193.53,
+        "Sprememba_Odstotek": 0.81,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Cathay Financial Holding",
+        "Koda": "2882.TW",
+        "Market_Cap_USD": 51030000000.0,
+        "Cena_USD": 3.48,
+        "Sprememba_Odstotek": 0.9,
+        "Drzava": "Taiwan"
+    },
+    {
+        "Ime": "Compass Group",
+        "Koda": "CPG.L",
+        "Market_Cap_USD": 50820000000.0,
+        "Cena_USD": 29.89,
+        "Sprememba_Odstotek": 1.53,
+        "Drzava": "UK"
+    },
+    {
+        "Ime": "Sempra",
+        "Koda": "SRE",
+        "Market_Cap_USD": 50720000000.0,
+        "Cena_USD": 77.58,
+        "Sprememba_Odstotek": 0.45,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Maersk",
+        "Koda": "MAERSK-B.CO",
+        "Market_Cap_USD": 50680000000.0,
+        "Cena_USD": null,
+        "Sprememba_Odstotek": 0.47,
+        "Drzava": "Denmark"
+    },
+    {
+        "Ime": "Swiss Re",
+        "Koda": "SREN.SW",
+        "Market_Cap_USD": 50610000000.0,
+        "Cena_USD": 171.63,
+        "Sprememba_Odstotek": 0.78,
+        "Drzava": "Switzerland"
+    },
+    {
+        "Ime": "Ford",
+        "Koda": "F",
+        "Market_Cap_USD": 50140000000.0,
+        "Cena_USD": 12.58,
+        "Sprememba_Odstotek": 1.06,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Hoya",
+        "Koda": "7741.T",
+        "Market_Cap_USD": 50060000000.0,
+        "Cena_USD": 150.1,
+        "Sprememba_Odstotek": 0.45,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Marubeni",
+        "Koda": "8002.T",
+        "Market_Cap_USD": 50020000000.0,
+        "Cena_USD": 30.79,
+        "Sprememba_Odstotek": 1.57,
+        "Drzava": "Japan"
+    },
+    {
+        "Ime": "Edwards Lifesciences",
+        "Koda": "EW",
+        "Market_Cap_USD": 50000000000.0,
+        "Cena_USD": 86.76,
+        "Sprememba_Odstotek": 0.54,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Becton Dickinson",
+        "Koda": "BDX",
+        "Market_Cap_USD": 49720000000.0,
+        "Cena_USD": 182.57,
+        "Sprememba_Odstotek": 0.68,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Honeywell Aerospace",
+        "Koda": "HONA",
+        "Market_Cap_USD": 49670000000.0,
+        "Cena_USD": 156.74,
+        "Sprememba_Odstotek": 1.28,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "State Street Corporation",
+        "Koda": "STT",
+        "Market_Cap_USD": 49520000000.0,
+        "Cena_USD": 180.3,
+        "Sprememba_Odstotek": 0.57,
+        "Drzava": "USA"
+    },
+    {
+        "Ime": "Siemens Healthineers",
+        "Koda": "SHL.DE",
+        "Market_Cap_USD": 49460000000.0,
+        "Cena_USD": 44.2,
+        "Sprememba_Odstotek": 2.88,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "BASF",
+        "Koda": "BAS.DE",
+        "Market_Cap_USD": 49400000000.0,
+        "Cena_USD": 57.38,
+        "Sprememba_Odstotek": 0.12,
+        "Drzava": "Germany"
+    },
+    {
+        "Ime": "CITIC limited",
+        "Koda": "0267.HK",
+        "Market_Cap_USD": 49280000000.0,
+        "Cena_USD": 1.69,
+        "Sprememba_Odstotek": 2.7,
+        "Drzava": "China"
+    }
+]
