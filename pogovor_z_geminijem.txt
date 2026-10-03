@@ -1,0 +1,59 @@
+vprašanje: hocem pridobiti podatke iz strani companiesmarketcap.com z uporabo knjižnice requests.
+Učasih je moja zahteva zavrnjena alpa strežnik čist zamrzne.
+A se da kako nastavt ta requests.get da ne bom cakala v nedogled.
+
+odgovor: Spletne strani pogosto blokirajo avtomatske zahteve, ki nimajo definiranih glavi (headers), saj delujejo kot boti.
+
+V svojo funkcijo za pridobivanje HTML dodaj glavo User-Agent, ki bo simulirala običajen brskalnik Chrome na sistemu Windows. 
+Prav tako nastavi parameter timeout=10 (v sekundah), da se program samodejno prekine, če se strežnik ne odzove pravočasno, 
+ter uredi lovljenje napak s try-except blokom in odgovor.raise_for_status().
+
+Primer kode: HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+vprašanje: podatke želim iz seznama slovarjev shraniti v mapo podatki v CSV in JSON. 
+Pri CSV datoteki želim preprečiti težave s šumniki in posebni znaki v excelu a se da to kako narest ze v pythonu
+
+odgovor:
+Za pretvorbo seznama slovarjev uporabi Pandas DataFrame (df = pd.DataFrame(vsa_podjetja)).
+
+Z os.makedirs("podatki", exist_ok=True) ustvari mapo, če ta še ne obstaja.
+
+Za shranjevanje v CSV uporabi df.to_csv("podatki/podjetja_market_cap.csv", index=False, encoding="utf-8-sig"). Kodiranje utf-8-sig doda UTF-8 BOM oznako, ki Excelu sporoči, kako pravilno prikazati šumnike in posebne znake.
+
+Za JSON uporabi modul json z nastavitvama ensure_ascii=False (za pravilen izpis znakov) in indent=4 (za berljivo formatiranje).
+
+vprašanje:želim narisati stolpčni graf 10 največjih držav po skupnem tržnem kapitalu. 
+Ker so vrednosti kapitala izražene v bilijonih dolarjev naprimer 10 na 12, so številke na Y-osi neberljive. 
+Kako nej te vrednosti preračunam in graf nardim v matplotlib?
+
+odgovor: Pri risanju grafa vrednosti Y-osi preprosto deli z 1e12 (10 na 12, tj. bilijon). Tako bodo na osi prikazana obvladljiva števila (npr. 15 namesto 15.000.000.000.000), v oznako Y-osi (plt.ylabel) pa pripiši enoto "Tržni kapital (bilijoni $)".
+
+Dodatno uporabi plt.xticks(rotation=40, ha="right"), da se imena držav ne bodo prekrivala, ter plt.tight_layout(), ki prepreči odrezovanje napisov pri shranjevanju slike z plt.savefig().
+
+vprašanje: pri testiranju Paretovega pravila (80/20) hočm ugotovit kok podjetij skupaj obvladuje 80 % 
+celotnega tržnega kapitala. Kako v pandas in NumPy izračunam ta kumulativni delež in natančno poiščem točko presečišča?
+
+odgovor:Postopek v Pandas in NumPy izvedeš tako:
+
+Uredi podjetja po padajočem kapitalu: df_urejen = df.sort_values("Market_Cap_USD", ascending=False).
+
+Izračunaj kumulativno vsoto z .cumsum() in jo deli s skupno vsoto: kumulativni_delez = (df_urejen["Market_Cap_USD"].cumsum() / skupni_kapital) * 100.
+
+Za iskanje natančnega indeksa, kjer kumulativni delež doseže ali preseže 80 %, uporabi funkcijo np.searchsorted(kumulativni_delez.values, 80) + 1.
+
+Delež podjetij na X-osi izračunaš kot (np.arange(1, n + 1) / n) * 100. To ti omogoča risanje Lorenzove krivulje z plt.plot().
+
+vprašanje: hočm analizirat povezavo med tržno vrednostjo podjetja in njegovim dnevnim nihanjem 
+tečaja (v %) problem je da so te tržne kapitalizacije v ful različnih stevilkah (miljarde, biljoni), 
+zato so podatki na linearni skali zelo zgoščeni in se use ful slabo pa cudn vid kako nej to pravilno preoblikujem in izračunam korelacijo?
+
+odgovor: Ker podatki o tržni kapitalizaciji pokrivajo več redov velikosti, 
+je potrebno X-os logaritmirati.V Pandas ustvari nov stolpec z logaritmom osnove 
+10: df["log_Market_Cap"] = np.log10(df["Market_Cap_USD"]).Ker te zanima moč nihanja
+ (volatilnost) ne glede na smer, vzemi absolutno vrednost spremembe:
+  df["Absolutna_Sprememba"] = df["Sprememba_Odstotek"].abs().
+  Za izračun korelacije in verjetnosti $p$ uporabi stats.pearsonr(x, y) 
+  iz knjižnice scipy. Če je vrednost $r$ blizu 0, to pomeni, da med velikostjo podjetja in
+   njegovim dnevnim odstotnim nihanjem ni povezave.
